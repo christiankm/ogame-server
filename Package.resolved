@@ -18,6 +18,15 @@
           "revision": "11da8c685ddde2d519fad04a7daf8485bbbc773e",
           "version": "1.7.5"
         }
+      },
+      {
+        "package": "XMLCoder",
+        "repositoryURL": "https://github.com/MaxDesiatov/XMLCoder",
+        "state": {
+          "branch": null,
+          "revision": "f30119af03996939cc4f54e0bf0dda9f88a84da5",
+          "version": "0.13.1"
+        }
       }
     ]
   },
