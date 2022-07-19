@@ -4,29 +4,35 @@
 import PackageDescription
 
 let package = Package(
-    name: "ogame-server",
+    name: "OGameServer",
     platforms: [.macOS(.v10_15)],
     products: [
         .library(
             name: "OGameServer",
-            targets: ["ogame-server"]),
+            targets: ["OGameServer"]
+        )
     ],
     dependencies: [
-        .package(url: "https://github.com/christiankm/OGame", .branchItem("main")),
-        .package(url: "https://github.com/scinfu/SwiftSoup", from: "1.0.0")
+        .package(url: "https://github.com/christiankm/OGame", .branch("main")),
+        .package(url: "https://github.com/scinfu/SwiftSoup", from: "1.0.0"),
         .package(url: "https://github.com/MaxDesiatov/XMLCoder", from: "0.12.0")
     ],
     targets: [
         .target(
-            name: "ogame-server",
+            name: "OGameServer",
             dependencies: [
                 "OGame",
-                "SwiftSoup"
+                "SwiftSoup",
                 "XMLCoder"
             ]
         ),
         .testTarget(
-            name: "ogame-serverTests",
-            dependencies: ["ogame-server"]),
+            name: "OGameServerTests",
+            dependencies: ["OGameServer"],
+            resources: [
+                .copy("OGame API Mocks/players.xml"),
+                .copy("OGame API Mocks/server_data.xml"),
+              ]
+        )
     ]
 )

@@ -39,4 +39,15 @@ final class OGameAPITests: XCTestCase {
         XCTAssertEqual(serverData.newbieProtectionHigh, 50000)
         XCTAssertEqual(serverData.bonusFields, 0)
     }
+
+    func testPlayers() async throws {
+        let players = try await sut.players()
+        let playerInterceptor = try XCTUnwrap(players.first { $0.id == 130196 })
+        let inactivePlayer = try XCTUnwrap(players.first { $0.id == 130241 })
+
+        XCTAssertEqual(players.count, 4742)
+        XCTAssertEqual(playerInterceptor.name, "Interceptor")
+        XCTAssertEqual(playerInterceptor.allianceId, 501227)
+        XCTAssertEqual(inactivePlayer.status, .inactive)
+    }
 }
