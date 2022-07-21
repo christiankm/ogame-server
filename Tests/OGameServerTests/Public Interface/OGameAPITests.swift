@@ -16,6 +16,14 @@ final class OGameAPITests: XCTestCase {
         serverLanguage: "en"
     )
 
+    func testUniverses() async throws {
+        let universes = try await sut.universes()
+        let bermuda = try XCTUnwrap(universes.first { $0.id == "801" })
+
+        XCTAssertEqual(bermuda.id, "801")
+        XCTAssertEqual(bermuda.url, "https://s801-en.ogame.gameforge.com")
+    }
+
     func testServerData() async throws {
         let serverData = try await sut.serverData()
 

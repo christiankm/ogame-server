@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<universes
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://s801-en.ogame.gameforge.com/api/xsd/universes.xsd" timestamp="1658371069" serverId="en801">
+    <universe id="800" href="https://s800-en.ogame.gameforge.com"/>
+    <universe id="801" href="https://s801-en.ogame.gameforge.com"/>
+    <universe id="802" href="https://s802-en.ogame.gameforge.com"/>
+    <universe id="803" href="https://s803-en.ogame.gameforge.com"/>
+    <universe id="805" href="https://s805-en.ogame.gameforge.com"/>
+</universes>

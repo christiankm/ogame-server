@@ -33,6 +33,7 @@ let package = Package(
                 .copy("OGame API Mocks/players.xml"),
                 .copy("OGame API Mocks/server_data.xml"),
                 .copy("OGame API Mocks/universe.xml"),
+                .copy("OGame API Mocks/universes.xml"),
               ]
         )
     ]

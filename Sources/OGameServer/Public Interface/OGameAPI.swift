@@ -39,6 +39,15 @@ public struct OGameAPI {
         self.session = URLSession(configuration: sessionConfiguration)
     }
 
+    /// Fetch a list of all universes in a community (country).
+    public func universes() async throws -> [OGameAPI.Universe] {
+        let url = makeURL(endpoint: "universes")
+        let (data, _) = try await session.data(from: url)
+        let response = try decoder.decode(UniversesResponse.self, from: data)
+
+        return response.universes
+    }
+
     /// Fetch all server configuration data.
     public func serverData() async throws -> OGameAPI.ServerData {
         let url = makeURL(endpoint: "serverData")
@@ -61,7 +70,6 @@ public struct OGameAPI {
     public func universe() async throws -> [OGameAPI.Planet] {
         let url = makeURL(endpoint: "universe")
         let (data, _) = try await session.data(from: url)
-        //print(String(decoding: data, as: UTF8.self))
         let response = try decoder.decode(UniverseResponse.self, from: data)
 
         return response.planets
