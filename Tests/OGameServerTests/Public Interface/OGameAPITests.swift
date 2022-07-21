@@ -90,4 +90,14 @@ final class OGameAPITests: XCTestCase {
         XCTAssertNil(btmi.logoURL)
         XCTAssertTrue(btmi.isOpen)
     }
+
+    func testHighScore() async throws {
+        let highScore = try await sut.highScore(category: .player, type: .total)
+        let player = try XCTUnwrap(highScore.first { $0.playerId == 131615 })
+
+        XCTAssertEqual(highScore.count, 4692)
+        XCTAssertEqual(player.playerId, 131615)
+        XCTAssertEqual(player.position, 127)
+        XCTAssertEqual(player.score, 791_870_117)
+    }
 }

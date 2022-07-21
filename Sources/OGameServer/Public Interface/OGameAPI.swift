@@ -83,6 +83,28 @@ public struct OGameAPI {
 
         return response.alliances
     }
+
+    /// Fetch high score list for the universe.
+    /// - Parameter category: A category i.e. players or alliances.
+    /// - Parameter type: A type of high score i.e. economy, military etc.
+    /// - Returns: The high score list for the given category.
+    public func highScore(category: HighScoreCategory, type: HighScoreType) async throws -> [OGameAPI.HighScore] {
+        let url = makeURL(endpoint: "highscore")
+
+        guard var urlComponents = URLComponents(string: url.absoluteString) else { fatalError() }
+
+        urlComponents.queryItems = [
+            URLQueryItem(name: "category", value: "\(category.rawValue)"),
+            URLQueryItem(name: "type", value: "\(type.rawValue)")
+        ]
+
+        guard let url = urlComponents.url else { fatalError() }
+
+        let (data, _) = try await session.data(from: url)
+        let response = try decoder.decode(HighScoreResponse.self, from: data)
+
+        return response.highScores
+    }
     private func makeURL(endpoint: String) -> URL {
         let country: String
         switch serverLanguage.lowercased() {
@@ -95,14 +117,5 @@ public struct OGameAPI {
         }
 
         return URL(string: "https://s\(serverNumber)-\(country).ogame.gameforge.com/api/\(endpoint).xml")!
-    }
-
-    private func call<T: Decodable>(_ request: URLRequest) -> AnyPublisher<T, Error> {
-        let publisher = URLSession.shared.dataTaskPublisher(for: request)
-            .map(\.data)
-            .decode(type: T.self, decoder: decoder)
-            .eraseToAnyPublisher()
-
-        return publisher
     }
 }
