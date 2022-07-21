@@ -24,7 +24,7 @@ extension XMLDecoder {
     }
 }
 
-private class TestBundle: Bundle {
+class TestBundle: Bundle {
 
     static func data(forResource resource: String, ofType type: String) throws -> Data {
         guard let path = Bundle.module.path(forResource: resource, ofType: type) else {

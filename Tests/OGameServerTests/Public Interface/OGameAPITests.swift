@@ -10,13 +10,29 @@ import XCTest
 
 final class OGameAPITests: XCTestCase {
 
-    private let sut = OGameAPI(
-        serverNumber: 801,
-        serverCountry: "en",
-        serverLanguage: "en"
-    )
+    private var session: MockURLSession!
+    private var sut: OGameAPI!
+
+    override func setUpWithError() throws {
+        try super.setUpWithError()
+        session = MockURLSession()
+        sut = OGameAPI(
+            serverNumber: 801,
+            serverCountry: "en",
+            serverLanguage: "en",
+            session: session
+        )
+    }
+
+    override func tearDownWithError() throws {
+        sut = nil
+        session = nil
+        try super.tearDownWithError()
+    }
 
     func testUniverses() async throws {
+        try session.stubWithResource("universes", ofType: "xml")
+
         let universes = try await sut.universes()
         let bermuda = try XCTUnwrap(universes.first { $0.id == "801" })
 
@@ -25,6 +41,8 @@ final class OGameAPITests: XCTestCase {
     }
 
     func testServerData() async throws {
+        try session.stubWithResource("server_data", ofType: "xml")
+
         let serverData = try await sut.serverData()
 
         XCTAssertEqual(serverData.name, "Bermuda")
@@ -49,6 +67,8 @@ final class OGameAPITests: XCTestCase {
     }
 
     func testPlayers() async throws {
+        try session.stubWithResource("players", ofType: "xml")
+
         let players = try await sut.players()
         let playerInterceptor = try XCTUnwrap(players.first { $0.id == 130196 })
         let inactivePlayer = try XCTUnwrap(players.first { $0.id == 130241 })
@@ -60,6 +80,8 @@ final class OGameAPITests: XCTestCase {
     }
 
     func testUniverse() async throws {
+        try session.stubWithResource("universe", ofType: "xml")
+
         let planets = try await sut.universe()
         let planet = try XCTUnwrap(planets.first { $0.id == 33622654 })
 
@@ -78,6 +100,8 @@ final class OGameAPITests: XCTestCase {
     }
 
     func testAlliances() async throws {
+        try session.stubWithResource("alliances", ofType: "xml")
+
         let alliances = try await sut.alliances()
         let btmi = try XCTUnwrap(alliances.first { $0.id == 501227 })
 
@@ -92,6 +116,8 @@ final class OGameAPITests: XCTestCase {
     }
 
     func testHighScore() async throws {
+        try session.stubWithResource("highscore", ofType: "xml")
+
         let highScore = try await sut.highScore(category: .player, type: .total)
         let player = try XCTUnwrap(highScore.first { $0.playerId == 131615 })
 

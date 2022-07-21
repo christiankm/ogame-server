@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playerData id="130196" name="Interceptor"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://s801-en.ogame.gameforge.com/api/xsd/playerData.xsd" timestamp="1658376326" serverId="en801">
+    <positions>
+        <position type="0" score="1774498.121">812</position>
+        <position type="1" score="571556.09699999">832</position>
+        <position type="2" score="78566.361">865</position>
+        <position type="3" score="34196" ships="16089">1109</position>
+        <position type="4" score="229907">494</position>
+        <position type="5" score="264069">848</position>
+        <position type="6" score="26751.75">709</position>
+        <position type="7" score="1383">903</position>
+        <position type="8" score="1090627.663">520</position>
+        <position type="9" score="1078328.899">498</position>
+        <position type="10" score="12282.764">775</position>
+        <position type="11" score="16">151</position>
+    </positions>
+    <planets>
+        <planet id="34055783" name="Humans" coords="3:14:9">
+            <moon id="34083735" name="Moon" size="8944"/>
+        </planet>
+        <planet id="34056196" name="Mechas" coords="3:2:8"/>
+        <planet id="34058263" name="Rocktal" coords="3:401:8"/>
+        <planet id="34058520" name="Kaelesh" coords="3:454:8"/>
+        <planet id="34065119" name="Rocktal" coords="2:209:8"/>
+        <planet id="34068110" name="Rocktal" coords="3:174:9"/>
+        <planet id="34086827" name="Rocktal" coords="3:466:8"/>
+    </planets>
+    <alliance id="501227">
+        <name>Big Time Mining Inc</name>
+        <tag>btmi</tag>
+    </alliance>
+</playerData>

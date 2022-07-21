@@ -19,7 +19,7 @@ public struct OGameAPI {
     let serverCountry: String
     let serverLanguage: String
 
-    private let session: URLSession
+    private let session: URLSessionProtocol
     private let decoder = XMLDecoder()
 
     private var cancellable: AnyCancellable?
@@ -28,15 +28,12 @@ public struct OGameAPI {
         serverNumber: Int,
         serverCountry: String,
         serverLanguage: String,
-        requestTimeout: TimeInterval = 10
+        session: URLSessionProtocol = URLSession.shared
     ) {
         self.serverNumber = serverNumber
         self.serverCountry = serverCountry
         self.serverLanguage = serverLanguage
-
-        let sessionConfiguration = URLSessionConfiguration.default
-        sessionConfiguration.timeoutIntervalForRequest = requestTimeout
-        self.session = URLSession(configuration: sessionConfiguration)
+        self.session = session
     }
 
     /// Fetch a list of all universes in a community (country).

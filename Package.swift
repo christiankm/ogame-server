@@ -30,12 +30,14 @@ let package = Package(
             name: "OGameServerTests",
             dependencies: ["OGameServer"],
             resources: [
-                .copy("OGame API Mocks/alliances.xml"),
-                .copy("OGame API Mocks/highscore.xml"),
-                .copy("OGame API Mocks/players.xml"),
-                .copy("OGame API Mocks/server_data.xml"),
-                .copy("OGame API Mocks/universe.xml"),
-                .copy("OGame API Mocks/universes.xml"),
+                .copy("OGame API Stubs/alliances.xml"),
+                .copy("OGame API Stubs/highscore.xml"),
+                .copy("OGame API Stubs/localization.xml"),
+                .copy("OGame API Stubs/players.xml"),
+                .copy("OGame API Stubs/player_data.xml"),
+                .copy("OGame API Stubs/server_data.xml"),
+                .copy("OGame API Stubs/universe.xml"),
+                .copy("OGame API Stubs/universes.xml"),
               ]
         )
     ]
