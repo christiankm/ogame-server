@@ -27,7 +27,7 @@ extension OGameAPI {
             case vacationInactiveLongBanned = "vIb"
         }
 
-        public let id: GameId
+        public let id: PlayerId
         public let name: String
 
         /// The users current status. If this value is nil, the user is most likely normal active.

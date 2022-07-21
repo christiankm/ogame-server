@@ -74,6 +74,15 @@ public struct OGameAPI {
 
         return response.planets
     }
+
+    /// Fetch all alliances on the server, including its members.
+    public func alliances() async throws -> [OGameAPI.Alliance] {
+        let url = makeURL(endpoint: "alliances")
+        let (data, _) = try await session.data(from: url)
+        let response = try decoder.decode(AlliancesResponse.self, from: data)
+
+        return response.alliances
+    }
     private func makeURL(endpoint: String) -> URL {
         let country: String
         switch serverLanguage.lowercased() {

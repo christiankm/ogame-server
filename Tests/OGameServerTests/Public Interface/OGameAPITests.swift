@@ -76,4 +76,18 @@ final class OGameAPITests: XCTestCase {
         XCTAssertEqual(moon.name, "Moon")
         XCTAssertEqual(moon.size, 7485)
     }
+
+    func testAlliances() async throws {
+        let alliances = try await sut.alliances()
+        let btmi = try XCTUnwrap(alliances.first { $0.id == 501227 })
+
+        XCTAssertEqual(btmi.id, 501227)
+        XCTAssertEqual(btmi.tag, "btmi")
+        XCTAssertEqual(btmi.name, "Big Time Mining Inc")
+        XCTAssertEqual(btmi.founder, 128574)
+        XCTAssertEqual(btmi.foundedDate, "1651007015")
+        XCTAssertEqual(btmi.members.count, 6)
+        XCTAssertNil(btmi.logoURL)
+        XCTAssertTrue(btmi.isOpen)
+    }
 }

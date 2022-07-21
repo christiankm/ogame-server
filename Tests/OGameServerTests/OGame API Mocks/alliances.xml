@@ -1,0 +1,3411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alliances
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://s801-en.ogame.gameforge.com/api/xsd/alliances.xsd" timestamp="1658317245" serverId="en801">
+    <alliance id="500000" name="Test Account" tag="TestAcc" founder="100008" foundDate="1414101600">
+        <player id="100008"/>
+    </alliance>
+    <alliance id="500007" name="SG1" tag="SG1" founder="100330" foundDate="1426719600" open="1">
+        <player id="100330"/>
+    </alliance>
+    <alliance id="500008" name="Netherlands" tag="Dutch" founder="100208" foundDate="1426719600" open="1">
+        <player id="100208"/>
+    </alliance>
+    <alliance id="500009" name="BUL" tag="BULGARIA" founder="100843" foundDate="1427410800" open="1">
+        <player id="100843"/>
+    </alliance>
+    <alliance id="500013" name="MinesFR" tag="Mines" founder="100850" foundDate="1427666400" open="1">
+        <player id="100850"/>
+    </alliance>
+    <alliance id="500015" name="Apocalypse Legion" tag="GHOST" founder="101663" foundDate="1428357600" open="1">
+        <player id="100339"/>
+        <player id="101663"/>
+        <player id="111838"/>
+    </alliance>
+    <alliance id="500019" name="Artificial Intelligence" tag="A-I" founder="102240" foundDate="1429308000" open="1">
+        <player id="102248"/>
+        <player id="102240"/>
+        <player id="102263"/>
+        <player id="102340"/>
+        <player id="102777"/>
+        <player id="106563"/>
+        <player id="111701"/>
+    </alliance>
+    <alliance id="500022" name="The Chronicels of Time" tag="TCT" founder="100232" foundDate="1429653600" open="1">
+        <player id="100232"/>
+    </alliance>
+    <alliance id="500025" name="Revenge Of The Falen" tag="ROF-Ro" founder="102582" foundDate="1430776800" open="1">
+        <player id="102582"/>
+        <player id="115788"/>
+    </alliance>
+    <alliance id="500026" name="Germania" tag="GER" founder="102658" foundDate="1430776800" open="1">
+        <player id="102658"/>
+        <player id="104670"/>
+    </alliance>
+    <alliance id="500028" name="MSA Is everywhere" tag="MSA" founder="103111" foundDate="1431813600" open="1">
+        <player id="103111"/>
+    </alliance>
+    <alliance id="500029" name="The Army Of Valhalla" tag="Valhalla" founder="101402" foundDate="1431900000" open="1">
+        <player id="101402"/>
+    </alliance>
+    <alliance id="500031" name="LesVieuX" tag="LVX" founder="103629" foundDate="1434405600" open="1">
+        <player id="103644"/>
+        <player id="103629"/>
+    </alliance>
+    <alliance id="500034" name="Brutalos" tag="Brutalos" founder="104488" foundDate="1439416800" logo="http://owiki.de/images/Brutalos.jpg" open="1">
+        <player id="104488"/>
+        <player id="101916"/>
+    </alliance>
+    <alliance id="500035" name="United Federation" tag="unfed" founder="104473" foundDate="1439589600" open="1">
+        <player id="104473"/>
+        <player id="104510"/>
+    </alliance>
+    <alliance id="500036" name="Time To Test" tag="TTT" founder="104771" foundDate="1439676000" open="1">
+        <player id="104771"/>
+    </alliance>
+    <alliance id="500038" name="Hjj" tag="HhYu" founder="104045" foundDate="1440799200" open="1">
+        <player id="104045"/>
+    </alliance>
+    <alliance id="500039" name="LegioN" tag="LegioN" founder="105415" foundDate="1444168800" open="1">
+        <player id="105415"/>
+    </alliance>
+    <alliance id="500040" name="TURK GUCU" tag="TURK" founder="105557" foundDate="1444946400" open="1">
+        <player id="105557"/>
+    </alliance>
+    <alliance id="500041" name="Federation Bermuda" tag="FeB" founder="100434" foundDate="1445119200" open="1">
+        <player id="100434"/>
+    </alliance>
+    <alliance id="500042" name="Los Gulas" tag="GULAS" founder="103869" foundDate="1445205600" open="1">
+        <player id="103869"/>
+    </alliance>
+    <alliance id="500045" name="Mafia Tuga" tag="Mafia" founder="100694" foundDate="1450220400" open="1">
+        <player id="100694"/>
+        <player id="105758"/>
+        <player id="106682"/>
+    </alliance>
+    <alliance id="500047" name="berber" tag="ber" founder="106744" foundDate="1461794400" open="1">
+        <player id="106744"/>
+    </alliance>
+    <alliance id="500048" name="Suicide Squad" tag="FU2" founder="106938" foundDate="1462140000" homepage="https://www.youtube.com/watch?v=-59jGD4WrmE&amp;list=RD-59jGD4WrmE" logo="https://s25.postimg.cc/558v11k4f/suicide_squad.jpg" open="1">
+        <player id="106645"/>
+        <player id="106938"/>
+        <player id="108539"/>
+        <player id="108602"/>
+        <player id="108472"/>
+    </alliance>
+    <alliance id="500050" name="German People" tag="GER-PPL" founder="107451" foundDate="1463695200" logo="https://abload.de/img/screenshot44gqrrm.png" open="1">
+        <player id="107451"/>
+        <player id="107478"/>
+    </alliance>
+    <alliance id="500051" name="Empire of Killeraty" tag="KILLERS" founder="107801" foundDate="1463868000" open="1">
+        <player id="107801"/>
+        <player id="107750"/>
+    </alliance>
+    <alliance id="500052" name="Unit Combat Viral" tag="U V C" founder="100706" foundDate="1465250400" open="1">
+        <player id="100706"/>
+    </alliance>
+    <alliance id="500053" name="Blubbernauts on Holiday" tag="BLUB" founder="107859" foundDate="1465423200" logo="http://i.imgur.com/KnIjD.jpg">
+        <player id="107859"/>
+    </alliance>
+    <alliance id="500055" name="MOON" tag="MOON" founder="107788" foundDate="1466287200" open="1">
+        <player id="107788"/>
+    </alliance>
+    <alliance id="500056" name="Arabesca Krieger" tag="AK-47" founder="107003" foundDate="1467756000" homepage="http://arabescaya.wix.com/allianzseite" open="1">
+        <player id="107003"/>
+    </alliance>
+    <alliance id="500057" name="o Crystall o" tag="o CRY o" founder="103419" foundDate="1467842400" open="1">
+        <player id="103419"/>
+    </alliance>
+    <alliance id="500059" name="ALONE" tag="ALONE" founder="100015" foundDate="1468706400" open="1">
+        <player id="100015"/>
+        <player id="105767"/>
+        <player id="123176"/>
+    </alliance>
+    <alliance id="500061" name="Newbies" tag="N-B" founder="108667" foundDate="1477173600" open="1">
+        <player id="108667"/>
+    </alliance>
+    <alliance id="500062" name="oNE mAN aLLY" tag="1MA" founder="105369" foundDate="1479596400" open="1">
+        <player id="105369"/>
+    </alliance>
+    <alliance id="500064" name="Arkadia" tag="Ark" founder="107428" foundDate="1481842800" open="1">
+        <player id="107428"/>
+    </alliance>
+    <alliance id="500070" name="Red Firm" tag="ReF" founder="102392" foundDate="1488063600" open="1">
+        <player id="104986"/>
+        <player id="103084"/>
+        <player id="104862"/>
+        <player id="102392"/>
+    </alliance>
+    <alliance id="500072" name="HONEST" tag="HNT_LV" founder="108959" foundDate="1488927600" open="1">
+        <player id="108959"/>
+    </alliance>
+    <alliance id="500073" name="C0NFU53 7H3 W02LD" tag="C7W" founder="109201" foundDate="1493244000" open="1">
+        <player id="109209"/>
+        <player id="109201"/>
+    </alliance>
+    <alliance id="500076" name="test" tag="test" founder="100088" foundDate="1497377298" open="1">
+        <player id="100088"/>
+    </alliance>
+    <alliance id="500080" name="Metesansan" tag="Met" founder="109322" foundDate="1499763625" open="1">
+        <player id="109322"/>
+    </alliance>
+    <alliance id="500083" name="Targaryen" tag="TAG" founder="109446" foundDate="1501378047" open="1">
+        <player id="109446"/>
+    </alliance>
+    <alliance id="500085" name="LIONS" tag="Lion" founder="100881" foundDate="1502598741" open="1">
+        <player id="100881"/>
+    </alliance>
+    <alliance id="500089" name="test2" tag="test2" founder="100005" foundDate="1503386349" open="1">
+        <player id="100005"/>
+    </alliance>
+    <alliance id="500094" name="RED" tag="RED" founder="108904" foundDate="1503485329" open="1">
+        <player id="108904"/>
+    </alliance>
+    <alliance id="500098" name="Killer Rabbits" tag="K R" founder="109868" foundDate="1503926120" open="1">
+        <player id="109868"/>
+    </alliance>
+    <alliance id="500099" name="Lucky Puto" tag="Luckygay" founder="109369" foundDate="1503977259" open="1">
+        <player id="109369"/>
+    </alliance>
+    <alliance id="500105" name="st655" tag="st655" founder="110064" foundDate="1507535656" open="1">
+        <player id="110064"/>
+    </alliance>
+    <alliance id="500108" name="st660pts" tag="st660pts" founder="110091" foundDate="1508836288" open="1">
+        <player id="110091"/>
+    </alliance>
+    <alliance id="500120" name="Fusion" tag="Fusion" founder="110369" foundDate="1518379384" open="1">
+        <player id="110369"/>
+    </alliance>
+    <alliance id="500128" name="Vikings" tag="Vikings" founder="116136" foundDate="1519403670" open="1">
+        <player id="115240"/>
+        <player id="116136"/>
+        <player id="121773"/>
+        <player id="122744"/>
+        <player id="129995"/>
+    </alliance>
+    <alliance id="500129" name="Bretonnia Crusader Regiment" tag="BCR" founder="110821" foundDate="1519414950" open="1">
+        <player id="110821"/>
+    </alliance>
+    <alliance id="500133" name="Les grenouilles" tag="France" founder="110922" foundDate="1519730193" open="1">
+        <player id="110922"/>
+    </alliance>
+    <alliance id="500144" name="APTDI7H" tag="EJH" founder="111177" foundDate="1520316277" open="1">
+        <player id="111177"/>
+    </alliance>
+    <alliance id="500145" name="Z8AX4I6" tag="Z0Q" founder="111179" foundDate="1520317392" open="1">
+        <player id="111179"/>
+    </alliance>
+    <alliance id="500146" name="A0KYSYU" tag="FDA" founder="111181" foundDate="1520321956" open="1">
+        <player id="111181"/>
+    </alliance>
+    <alliance id="500147" name="RWS7NT9" tag="9CG" founder="111183" foundDate="1520322221" open="1">
+        <player id="111183"/>
+    </alliance>
+    <alliance id="500148" name="B100ICN" tag="7BZ" founder="111186" foundDate="1520325895" open="1">
+        <player id="111186"/>
+    </alliance>
+    <alliance id="500149" name="MWZDN1L" tag="J92" founder="111188" foundDate="1520326292" open="1">
+        <player id="111188"/>
+    </alliance>
+    <alliance id="500150" name="9PWCLR5" tag="VHM" founder="111190" foundDate="1520326544" open="1">
+        <player id="111190"/>
+    </alliance>
+    <alliance id="500151" name="UFUF41K" tag="GNF" founder="111192" foundDate="1520330823" open="1">
+        <player id="111192"/>
+    </alliance>
+    <alliance id="500152" name="SQLQOK1" tag="UXM" founder="111194" foundDate="1520331102" open="1">
+        <player id="111194"/>
+    </alliance>
+    <alliance id="500154" name="W82GS5K" tag="TYP" founder="111236" foundDate="1520840364" open="1">
+        <player id="111236"/>
+    </alliance>
+    <alliance id="500155" name="MGR0Q26" tag="KX2" founder="111237" foundDate="1520840375" open="1">
+        <player id="111237"/>
+    </alliance>
+    <alliance id="500156" name="ZQPKVWR" tag="W1L" founder="111243" foundDate="1520853655" open="1">
+        <player id="111243"/>
+    </alliance>
+    <alliance id="500157" name="15304CG" tag="RVA" founder="111244" foundDate="1520853668" open="1">
+        <player id="111244"/>
+    </alliance>
+    <alliance id="500158" name="DRWXT55" tag="SB6" founder="111247" foundDate="1520854535" open="1">
+        <player id="111247"/>
+    </alliance>
+    <alliance id="500159" name="362MHG6" tag="I3M" founder="111248" foundDate="1520854547" open="1">
+        <player id="111248"/>
+    </alliance>
+    <alliance id="500160" name="QG0DA4J" tag="NY7" founder="111303" foundDate="1521537170" open="1">
+        <player id="111303"/>
+    </alliance>
+    <alliance id="500161" name="N7O2J1C" tag="J80" founder="111305" foundDate="1521537448" open="1">
+        <player id="111305"/>
+    </alliance>
+    <alliance id="500166" name="1971BAJ" tag="V9T" founder="111323" foundDate="1521552312" open="1">
+        <player id="111323"/>
+    </alliance>
+    <alliance id="500167" name="CDGK6Y5" tag="CX3" founder="111329" foundDate="1521613227" open="1">
+        <player id="111329"/>
+    </alliance>
+    <alliance id="500168" name="ASOPZPG" tag="ZAG" founder="111330" foundDate="1521613240" open="1">
+        <player id="111330"/>
+    </alliance>
+    <alliance id="500169" name="DJRT3WZ" tag="35P" founder="111341" foundDate="1521620444" open="1">
+        <player id="111341"/>
+    </alliance>
+    <alliance id="500170" name="3QWINLE" tag="0PG" founder="111343" foundDate="1521622326" open="1">
+        <player id="111343"/>
+    </alliance>
+    <alliance id="500171" name="IQLM4QA" tag="EQ4" founder="111345" foundDate="1521623042" open="1">
+        <player id="111345"/>
+    </alliance>
+    <alliance id="500172" name="AG2LQ76" tag="7X5" founder="111346" foundDate="1521623537" open="1">
+        <player id="111346"/>
+    </alliance>
+    <alliance id="500173" name="CZ692U6" tag="PO9" founder="111347" foundDate="1521623554" open="1">
+        <player id="111347"/>
+    </alliance>
+    <alliance id="500174" name="HQ325NQ" tag="MGZ" founder="111350" foundDate="1521624255" open="1">
+        <player id="111350"/>
+    </alliance>
+    <alliance id="500175" name="BUH7QOR" tag="7LD" founder="111352" foundDate="1521627803" open="1">
+        <player id="111352"/>
+    </alliance>
+    <alliance id="500176" name="DXR7SC6" tag="A1L" founder="111356" foundDate="1521630018" open="1">
+        <player id="111356"/>
+    </alliance>
+    <alliance id="500177" name="A9V9XX2" tag="PSC" founder="111358" foundDate="1521630306" open="1">
+        <player id="111358"/>
+    </alliance>
+    <alliance id="500178" name="ARYBBCR" tag="AIX" founder="111360" foundDate="1521630664" open="1">
+        <player id="111360"/>
+    </alliance>
+    <alliance id="500180" name="11NLSNW" tag="PO8" founder="111369" foundDate="1521633796" open="1">
+        <player id="111369"/>
+    </alliance>
+    <alliance id="500182" name="YJUPCG8" tag="9RQ" founder="111373" foundDate="1521635532" open="1">
+        <player id="111373"/>
+    </alliance>
+    <alliance id="500183" name="8RV863S" tag="4EZ" founder="111374" foundDate="1521635546" open="1">
+        <player id="111374"/>
+    </alliance>
+    <alliance id="500184" name="4YKKAJ1" tag="KGZ" founder="111377" foundDate="1521636799" open="1">
+        <player id="111377"/>
+    </alliance>
+    <alliance id="500185" name="RWTF1FC" tag="ADB" founder="111379" foundDate="1521637214" open="1">
+        <player id="111379"/>
+    </alliance>
+    <alliance id="500186" name="R45O2EG" tag="9Z7" founder="111381" foundDate="1521637591" open="1">
+        <player id="111381"/>
+    </alliance>
+    <alliance id="500187" name="PTZ8DML" tag="7O5" founder="111384" foundDate="1521638111" open="1">
+        <player id="111384"/>
+    </alliance>
+    <alliance id="500188" name="RCPH3ER" tag="X5V" founder="111386" foundDate="1521638811" open="1">
+        <player id="111386"/>
+    </alliance>
+    <alliance id="500189" name="BRV7GVQ" tag="3YN" founder="111387" foundDate="1521638825" open="1">
+        <player id="111387"/>
+    </alliance>
+    <alliance id="500190" name="1ZXEZD0" tag="XZ2" founder="111388" foundDate="1521638846" open="1">
+        <player id="111388"/>
+    </alliance>
+    <alliance id="500191" name="MVO463R" tag="N00" founder="111405" foundDate="1521697978" open="1">
+        <player id="111405"/>
+    </alliance>
+    <alliance id="500192" name="AX1PLJO" tag="EXJ" founder="111406" foundDate="1521697994" open="1">
+        <player id="111406"/>
+    </alliance>
+    <alliance id="500193" name="AOO64WX" tag="WD1" founder="111414" foundDate="1521702395" open="1">
+        <player id="111414"/>
+    </alliance>
+    <alliance id="500194" name="D9GCCQT" tag="X86" founder="111415" foundDate="1521702411" open="1">
+        <player id="111415"/>
+    </alliance>
+    <alliance id="500195" name="VSZNUKZ" tag="D33" founder="111416" foundDate="1521702431" open="1">
+        <player id="111416"/>
+    </alliance>
+    <alliance id="500196" name="WSCHTPP" tag="Q8I" founder="111421" foundDate="1521703385" open="1">
+        <player id="111421"/>
+    </alliance>
+    <alliance id="500197" name="7ORQ24I" tag="J8S" founder="111427" foundDate="1521707603" open="1">
+        <player id="111427"/>
+    </alliance>
+    <alliance id="500198" name="XZZUEE6" tag="3XQ" founder="111428" foundDate="1521707619" open="1">
+        <player id="111428"/>
+    </alliance>
+    <alliance id="500199" name="494E2XR" tag="4G7" founder="111512" foundDate="1522133209" open="1">
+        <player id="111512"/>
+    </alliance>
+    <alliance id="500200" name="2444ZNJ" tag="4EE" founder="111513" foundDate="1522133224" open="1">
+        <player id="111513"/>
+    </alliance>
+    <alliance id="500201" name="7IFAAMP" tag="SW2" founder="111523" foundDate="1522229534" open="1">
+        <player id="111523"/>
+    </alliance>
+    <alliance id="500202" name="XFGNGVQ" tag="32U" founder="111524" foundDate="1522229549" open="1">
+        <player id="111524"/>
+    </alliance>
+    <alliance id="500206" name="O7AJG3Q" tag="2Y0" founder="111734" foundDate="1527672006" open="1">
+        <player id="111734"/>
+    </alliance>
+    <alliance id="500208" name="DAH2AZA" tag="WEE" founder="111737" foundDate="1527674224" open="1">
+        <player id="111737"/>
+    </alliance>
+    <alliance id="500209" name="OTTOMANEMPIRE" tag="OTT" founder="107769" foundDate="1528569686">
+        <player id="107769"/>
+        <player id="112600"/>
+        <player id="102586"/>
+    </alliance>
+    <alliance id="500210" name="VPVUMLS" tag="HFO" founder="111897" foundDate="1530078438" open="1">
+        <player id="111897"/>
+    </alliance>
+    <alliance id="500211" name="NT2NJCZ" tag="QXW" founder="111899" foundDate="1530079566" open="1">
+        <player id="111899"/>
+    </alliance>
+    <alliance id="500212" name="IMPERIAL" tag="IMPERIAL" founder="108469" foundDate="1530153018" open="1">
+        <player id="108469"/>
+    </alliance>
+    <alliance id="500213" name="G3ZOJDZ" tag="SZV" founder="111949" foundDate="1530517703" open="1">
+        <player id="111949"/>
+    </alliance>
+    <alliance id="500214" name="4X70TTS" tag="3PT" founder="111951" foundDate="1530518148" open="1">
+        <player id="111951"/>
+    </alliance>
+    <alliance id="500215" name="MNXUA2N" tag="1D1" founder="111952" foundDate="1530524811" open="1">
+        <player id="111952"/>
+    </alliance>
+    <alliance id="500216" name="WAJH8I4" tag="5A8" founder="111954" foundDate="1530525203" open="1">
+        <player id="111954"/>
+    </alliance>
+    <alliance id="500217" name="NW4R5VE" tag="0H8" founder="111955" foundDate="1530528363" open="1">
+        <player id="111955"/>
+    </alliance>
+    <alliance id="500220" name="XURT3EO" tag="ZOJ" founder="112015" foundDate="1532934393" open="1">
+        <player id="112015"/>
+    </alliance>
+    <alliance id="500221" name="6U7OUTW" tag="XU0" founder="112020" foundDate="1532946140" open="1">
+        <player id="112020"/>
+    </alliance>
+    <alliance id="500222" name="2FL181B" tag="NQ6" founder="112028" foundDate="1533015314" open="1">
+        <player id="112028"/>
+    </alliance>
+    <alliance id="500223" name="SVH5YCI" tag="QZU" founder="112030" foundDate="1533015770" open="1">
+        <player id="112030"/>
+    </alliance>
+    <alliance id="500224" name="FSIGIJ9" tag="ZE1" founder="112031" foundDate="1533016137" open="1">
+        <player id="112031"/>
+    </alliance>
+    <alliance id="500233" name="TESTERS" tag="TES" founder="112583" foundDate="1539937061" open="1">
+        <player id="112583"/>
+    </alliance>
+    <alliance id="500235" name="EMULATION" tag="SYS" founder="112591" foundDate="1540167052" open="1">
+        <player id="112591"/>
+    </alliance>
+    <alliance id="500241" name="Peace Among Worlds" tag="420" founder="113023" foundDate="1540609473" open="1">
+        <player id="113023"/>
+    </alliance>
+    <alliance id="500252" name="MadMax" tag="Devastar" founder="113322" foundDate="1540940497" open="1">
+        <player id="113322"/>
+    </alliance>
+    <alliance id="500264" name="SpaceMarines" tag="MARINES" founder="113830" foundDate="1542068261" logo="https://spikeybits.com/wp-content/uploads/2017/03/tumblr_nixvfyReSM1u19hiso1_1280.jpg" open="1">
+        <player id="113830"/>
+        <player id="112942"/>
+        <player id="113702"/>
+        <player id="105688"/>
+        <player id="116650"/>
+        <player id="125231"/>
+    </alliance>
+    <alliance id="500266" name="BEAR" tag="BEAR" founder="113589" foundDate="1542390292" open="1">
+        <player id="113589"/>
+    </alliance>
+    <alliance id="500269" name="N4WERT9" tag="2LT" founder="113916" foundDate="1542788260" open="1">
+        <player id="113916"/>
+    </alliance>
+    <alliance id="500274" name="MOONS" tag="MOONS" founder="100861" foundDate="1566587834" homepage="xgproyect.org" logo="https://xgproyect.org/wp-content/uploads/2019/10/xgp-new-logo-black.png" open="1">
+        <player id="100861"/>
+    </alliance>
+    <alliance id="500279" name="MAGYAROK" tag="HUN" founder="116157" foundDate="1568257750" open="1">
+        <player id="116157"/>
+    </alliance>
+    <alliance id="500282" name="Cereal Testeurs" tag="CeTe" founder="116248" foundDate="1569149802" open="1">
+        <player id="116248"/>
+        <player id="116249"/>
+    </alliance>
+    <alliance id="500284" name="Corporacion Estelar" tag="C-O" founder="116683" foundDate="1570727951" open="1">
+        <player id="116683"/>
+    </alliance>
+    <alliance id="500285" name="Los Pusheros" tag="OLPUSH" founder="100144" foundDate="1570777577" open="1">
+        <player id="100144"/>
+    </alliance>
+    <alliance id="500288" name="Guardians of the Galaxy" tag="G_G" founder="116724" foundDate="1570790391" open="1">
+        <player id="116724"/>
+    </alliance>
+    <alliance id="500289" name="INFINITAS - FR-LIBRA" tag="INFINIT" founder="116194" foundDate="1570794589" open="1">
+        <player id="116194"/>
+        <player id="117755"/>
+        <player id="125179"/>
+        <player id="126866"/>
+        <player id="127134"/>
+        <player id="129946"/>
+    </alliance>
+    <alliance id="500292" name="Sanctuary of PD" tag="SPD" founder="116445" foundDate="1570798712" open="1">
+        <player id="116445"/>
+    </alliance>
+    <alliance id="500301" name="Polska" tag="POL" founder="117466" foundDate="1570815025" open="1">
+        <player id="117466"/>
+        <player id="117159"/>
+        <player id="120126"/>
+        <player id="116154"/>
+        <player id="118979"/>
+    </alliance>
+    <alliance id="500304" name="ITA TEST" tag="ITA TEST" founder="116615" foundDate="1570820903" open="1">
+        <player id="116615"/>
+        <player id="118040"/>
+        <player id="129410"/>
+        <player id="132148"/>
+        <player id="128837"/>
+        <player id="129583"/>
+        <player id="128411"/>
+        <player id="128190"/>
+        <player id="131992"/>
+        <player id="132755"/>
+        <player id="131018"/>
+        <player id="132412"/>
+        <player id="132903"/>
+        <player id="132162"/>
+        <player id="130555"/>
+        <player id="132595"/>
+        <player id="133074"/>
+        <player id="130764"/>
+        <player id="128436"/>
+        <player id="127886"/>
+        <player id="129707"/>
+        <player id="133599"/>
+        <player id="132670"/>
+        <player id="130522"/>
+        <player id="134026"/>
+        <player id="134096"/>
+        <player id="129045"/>
+        <player id="134522"/>
+        <player id="134234"/>
+        <player id="134432"/>
+        <player id="127983"/>
+    </alliance>
+    <alliance id="500312" name="Armada" tag="Armada" founder="116778" foundDate="1570867951" open="1">
+        <player id="116778"/>
+    </alliance>
+    <alliance id="500315" name="Just Ghost" tag="JustG" founder="117843" foundDate="1570871009" logo="http://www.paranormal-info.fr/images/gallerie/esprits/femme-fantome-298.jpg" open="1">
+        <player id="117843"/>
+    </alliance>
+    <alliance id="500319" name="sdsdg" tag="jkdsfgt" founder="116541" foundDate="1570891152" open="1">
+        <player id="116541"/>
+    </alliance>
+    <alliance id="500320" name="Test update" tag="Testi" founder="117260" foundDate="1570900275" open="1">
+        <player id="117260"/>
+    </alliance>
+    <alliance id="500324" name="TURKEY" tag="T R" founder="117077" foundDate="1570948589" open="1">
+        <player id="117077"/>
+    </alliance>
+    <alliance id="500325" name="KopgGeldjaeger" tag="K_G" founder="117042" foundDate="1570956212" open="1">
+        <player id="117042"/>
+    </alliance>
+    <alliance id="500329" name="Delirius pushers" tag="oVoPush" founder="117144" foundDate="1570977013" open="1">
+        <player id="117144"/>
+    </alliance>
+    <alliance id="500330" name="SoLd" tag="SoLd" founder="116226" foundDate="1570991497" open="1">
+        <player id="116226"/>
+    </alliance>
+    <alliance id="500331" name="Camsi Camsi Camsa" tag="Ylala" founder="117497" foundDate="1570996263" open="1">
+        <player id="117497"/>
+    </alliance>
+    <alliance id="500335" name="German Test Players" tag="German" founder="117793" foundDate="1571045036" open="1">
+        <player id="117793"/>
+        <player id="117730"/>
+        <player id="124710"/>
+        <player id="125256"/>
+        <player id="125394"/>
+        <player id="119874"/>
+        <player id="130507"/>
+        <player id="128877"/>
+        <player id="130898"/>
+        <player id="128950"/>
+        <player id="131656"/>
+    </alliance>
+    <alliance id="500351" name="Las Malvinas Son Argentinas" tag="MalArg" founder="118739" foundDate="1571157010" open="1">
+        <player id="118739"/>
+    </alliance>
+    <alliance id="500364" name="ONDOKUZ" tag="YILDIZ" founder="119243" foundDate="1571227897" open="1">
+        <player id="119243"/>
+    </alliance>
+    <alliance id="500369" name="FLYING-DUTCH-MEN" tag="FLYING-D" founder="119286" foundDate="1571233349" open="1">
+        <player id="119286"/>
+    </alliance>
+    <alliance id="500372" name="Never Say Die" tag="NSD" founder="119533" foundDate="1571237435" open="1">
+        <player id="119533"/>
+    </alliance>
+    <alliance id="500386" name="ONEPIECE" tag="ONEPIECE" founder="116969" foundDate="1571259138" open="1">
+        <player id="116969"/>
+    </alliance>
+    <alliance id="500387" name="Fleet Save Or Die" tag="FSOD" founder="120187" foundDate="1571280951" open="1">
+        <player id="120187"/>
+    </alliance>
+    <alliance id="500390" name="sbf" tag="sbf" founder="117226" foundDate="1571292765" open="1"/>
+    <alliance id="500395" name="GOD" tag="GOD" founder="119544" foundDate="1571309054" open="1">
+        <player id="119544"/>
+        <player id="118251"/>
+        <player id="118562"/>
+    </alliance>
+    <alliance id="500398" name="Fiendish Unruly Delinquents" tag="FUD" founder="120215" foundDate="1571318378" open="1">
+        <player id="120198"/>
+    </alliance>
+    <alliance id="500405" name="FUSILLI" tag="FUSILLI" founder="118379" foundDate="1571333560" open="1">
+        <player id="118379"/>
+        <player id="121543"/>
+        <player id="118131"/>
+    </alliance>
+    <alliance id="500406" name="Turkish Stars of Ogame" tag="Turkish" founder="118372" foundDate="1571336834" logo="https://i.imgyukle.com/2020/02/01/nkGMLY.gif" open="1">
+        <player id="118372"/>
+        <player id="116579"/>
+        <player id="123306"/>
+        <player id="123257"/>
+        <player id="123618"/>
+        <player id="122702"/>
+        <player id="122648"/>
+        <player id="125252"/>
+        <player id="125842"/>
+        <player id="123651"/>
+        <player id="117232"/>
+        <player id="127031"/>
+        <player id="127147"/>
+        <player id="127660"/>
+        <player id="127633"/>
+        <player id="127722"/>
+        <player id="127693"/>
+        <player id="127775"/>
+        <player id="117638"/>
+        <player id="128301"/>
+        <player id="130044"/>
+        <player id="129841"/>
+        <player id="131347"/>
+        <player id="128845"/>
+        <player id="131650"/>
+        <player id="130961"/>
+        <player id="131643"/>
+        <player id="132000"/>
+        <player id="131896"/>
+        <player id="132760"/>
+        <player id="127897"/>
+        <player id="124821"/>
+        <player id="126715"/>
+        <player id="130418"/>
+        <player id="132434"/>
+        <player id="128709"/>
+        <player id="131245"/>
+        <player id="128197"/>
+        <player id="130597"/>
+        <player id="133588"/>
+        <player id="133438"/>
+        <player id="133671"/>
+        <player id="133706"/>
+        <player id="133843"/>
+        <player id="133806"/>
+        <player id="129060"/>
+        <player id="133169"/>
+        <player id="130431"/>
+        <player id="134047"/>
+        <player id="132183"/>
+        <player id="133561"/>
+        <player id="134189"/>
+        <player id="134399"/>
+        <player id="132834"/>
+        <player id="134463"/>
+        <player id="117162"/>
+        <player id="134539"/>
+        <player id="134620"/>
+        <player id="134622"/>
+        <player id="134626"/>
+        <player id="134686"/>
+        <player id="134689"/>
+        <player id="130631"/>
+        <player id="134782"/>
+        <player id="131905"/>
+        <player id="134331"/>
+        <player id="136971"/>
+        <player id="137005"/>
+        <player id="137276"/>
+    </alliance>
+    <alliance id="500417" name="new-horizons" tag="horizon" founder="116517" foundDate="1571487077" open="1">
+        <player id="116517"/>
+    </alliance>
+    <alliance id="500428" name="cooo" tag="CCOOO" founder="100988" foundDate="1571745103" open="1">
+        <player id="100988"/>
+    </alliance>
+    <alliance id="500431" name="Monkey Drunks" tag="MONKEY" founder="116583" foundDate="1571778936" open="1">
+        <player id="116583"/>
+    </alliance>
+    <alliance id="500435" name="fff" tag="fff" founder="111039" foundDate="1571824519" open="1">
+        <player id="111039"/>
+    </alliance>
+    <alliance id="500442" name="ATLANTIS HU" tag="ATLANTIS" founder="121133" foundDate="1572027531" open="1">
+        <player id="121133"/>
+        <player id="119320"/>
+    </alliance>
+    <alliance id="500448" name="UnlimitedDeaD" tag="UlD" founder="118420" foundDate="1572281127" open="1">
+        <player id="118420"/>
+        <player id="118184"/>
+    </alliance>
+    <alliance id="500457" name="COVENANT" tag="C_V_T" founder="121432" foundDate="1572556699" open="1">
+        <player id="121529"/>
+    </alliance>
+    <alliance id="500458" name="WergW" tag="WergW" founder="120359" foundDate="1572564095" open="1">
+        <player id="120359"/>
+    </alliance>
+    <alliance id="500470" name="szop" tag="szop" founder="117488" foundDate="1573338594" open="1">
+        <player id="117488"/>
+    </alliance>
+    <alliance id="500471" name="A-F-K" tag="A-F-K" founder="121425" foundDate="1573468730" open="1">
+        <player id="121425"/>
+    </alliance>
+    <alliance id="500473" name="OIR" tag="OIR" founder="120514" foundDate="1574132650" open="1">
+        <player id="120514"/>
+    </alliance>
+    <alliance id="500484" name="Los Bucaneros Espaciales" tag="LBE" founder="122187" foundDate="1575635583" open="1">
+        <player id="122187"/>
+    </alliance>
+    <alliance id="500492" name="Usedom" tag="USE" founder="119603" foundDate="1578118829" open="1">
+        <player id="119603"/>
+    </alliance>
+    <alliance id="500506" name="ydgfb" tag="ydgf" founder="122732" foundDate="1582104288" open="1">
+        <player id="122732"/>
+    </alliance>
+    <alliance id="500512" name="Polish SQUAD" tag="PolSQU" founder="121902" foundDate="1584620061" open="1">
+        <player id="121902"/>
+        <player id="119760"/>
+        <player id="120758"/>
+    </alliance>
+    <alliance id="500522" name="AZERTY" tag="AZE" founder="122760" foundDate="1588535970" open="1">
+        <player id="122760"/>
+    </alliance>
+    <alliance id="500523" name="Ebelerinize Haber Salin" tag="EBELER" founder="112452" foundDate="1588783853" open="1">
+        <player id="123360"/>
+        <player id="123274"/>
+        <player id="122665"/>
+        <player id="123146"/>
+        <player id="112452"/>
+        <player id="123769"/>
+        <player id="126502"/>
+        <player id="126546"/>
+        <player id="126579"/>
+    </alliance>
+    <alliance id="500528" name="AngeL" tag="AngeL" founder="123358" foundDate="1591335683" open="1">
+        <player id="123358"/>
+        <player id="123712"/>
+    </alliance>
+    <alliance id="500537" name="FoRFaNS" tag="FoRFaNS" founder="123858" foundDate="1593336373" open="1">
+        <player id="123858"/>
+    </alliance>
+    <alliance id="500540" name="OGameUS Team" tag="OGameUS" founder="122545" foundDate="1594124240" open="1">
+        <player id="122545"/>
+        <player id="124194"/>
+    </alliance>
+    <alliance id="500552" name="Dios de la destrucion" tag="Bills" founder="124706" foundDate="1599415478" open="1">
+        <player id="124706"/>
+    </alliance>
+    <alliance id="500553" name="BORG" tag="BORG" founder="123048" foundDate="1599749846" open="1">
+        <player id="123048"/>
+        <player id="123305"/>
+        <player id="123304"/>
+    </alliance>
+    <alliance id="500557" name="p-16" tag="p-16" founder="124878" foundDate="1600412418" open="1">
+        <player id="124878"/>
+    </alliance>
+    <alliance id="500559" name="Testing dont atack me" tag="Testt" founder="118286" foundDate="1600779455" open="1">
+        <player id="123308"/>
+        <player id="124915"/>
+        <player id="118286"/>
+        <player id="124951"/>
+        <player id="124974"/>
+        <player id="124950"/>
+        <player id="128548"/>
+        <player id="134786"/>
+    </alliance>
+    <alliance id="500570" name="YaTanGaKi" tag="YaTanGaK" founder="125123" foundDate="1605471195" open="1">
+        <player id="125123"/>
+    </alliance>
+    <alliance id="500575" name="TUTOS" tag="TUTOS" founder="125158" foundDate="1606128562" open="1">
+        <player id="125158"/>
+        <player id="125160"/>
+        <player id="116545"/>
+        <player id="125209"/>
+        <player id="125199"/>
+        <player id="125147"/>
+        <player id="125149"/>
+        <player id="125186"/>
+        <player id="125205"/>
+    </alliance>
+    <alliance id="500578" name="ogamex" tag="ogamex" founder="117670" foundDate="1606142932" open="1">
+        <player id="117670"/>
+        <player id="125154"/>
+    </alliance>
+    <alliance id="500579" name="BUYDEUT" tag="BUYDEUT" founder="125210" foundDate="1606153556" open="1">
+        <player id="125210"/>
+        <player id="125221"/>
+        <player id="125239"/>
+        <player id="125177"/>
+        <player id="125228"/>
+    </alliance>
+    <alliance id="500583" name="REXXX" tag="REXXX" founder="124838" foundDate="1606243533" open="1">
+        <player id="124838"/>
+        <player id="125299"/>
+    </alliance>
+    <alliance id="500584" name="Feel Good" tag="FLG" founder="125178" foundDate="1606244612" open="1">
+        <player id="125178"/>
+    </alliance>
+    <alliance id="500585" name="AAAAAA" tag="ABCD" founder="122246" foundDate="1606252837" open="1">
+        <player id="122246"/>
+        <player id="100000"/>
+    </alliance>
+    <alliance id="500586" name="TeSTe" tag="TeSTe" founder="125289" foundDate="1606278590" open="1">
+        <player id="125289"/>
+        <player id="125311"/>
+    </alliance>
+    <alliance id="500587" name="FUSION-FR" tag="FUFR" founder="120621" foundDate="1606298765" open="1">
+        <player id="120621"/>
+        <player id="123453"/>
+        <player id="128108"/>
+        <player id="129590"/>
+    </alliance>
+    <alliance id="500588" name="Bogoss du cul" tag="B-G" founder="122186" foundDate="1606299930" open="1">
+        <player id="122186"/>
+        <player id="122889"/>
+        <player id="118225"/>
+    </alliance>
+    <alliance id="500591" name="AVVFZorro" tag="AVVFZ" founder="122460" foundDate="1606389150" open="1">
+        <player id="122460"/>
+    </alliance>
+    <alliance id="500594" name="Ungarische" tag="Ung" founder="125217" foundDate="1606493768" open="1">
+        <player id="125217"/>
+        <player id="117648"/>
+        <player id="123141"/>
+        <player id="125407"/>
+        <player id="128282"/>
+        <player id="128337"/>
+        <player id="131260"/>
+        <player id="129014"/>
+        <player id="130193"/>
+        <player id="129786"/>
+        <player id="132601"/>
+        <player id="132523"/>
+        <player id="132636"/>
+        <player id="126855"/>
+        <player id="137268"/>
+    </alliance>
+    <alliance id="500595" name="Hey Ho" tag="Hey Ho" founder="121742" foundDate="1606495449" open="1">
+        <player id="121742"/>
+    </alliance>
+    <alliance id="500597" name="pelas acoes zertas" tag="PAZ" founder="124855" foundDate="1606497978" open="1">
+        <player id="124855"/>
+        <player id="122870"/>
+        <player id="121730"/>
+    </alliance>
+    <alliance id="500598" name="rewards" tag="rewards" founder="122160" foundDate="1606512498" open="1">
+        <player id="122160"/>
+        <player id="125400"/>
+    </alliance>
+    <alliance id="500599" name="SX-Army" tag="SX-Army" founder="125425" foundDate="1606586798" open="1">
+        <player id="125425"/>
+        <player id="125430"/>
+        <player id="125413"/>
+    </alliance>
+    <alliance id="500600" name="REWARD" tag="REWARD" founder="125352" foundDate="1606636078" open="1">
+        <player id="125352"/>
+    </alliance>
+    <alliance id="500602" name="REPUBLICA PORTUGUESA" tag="PRT" founder="125183" foundDate="1606819577" logo="https://i.imgur.com/XkHXfgG.jpg">
+        <player id="125183"/>
+    </alliance>
+    <alliance id="500608" name="Testing" tag="TEST UNI" founder="120140" foundDate="1609628758" open="1">
+        <player id="120140"/>
+    </alliance>
+    <alliance id="500609" name="Moon Shot Trade" tag="MST" founder="131384" foundDate="1609951536" open="1">
+        <player id="131384"/>
+        <player id="137212"/>
+    </alliance>
+    <alliance id="500611" name="GRUPA" tag="GRUPA" founder="125102" foundDate="1612815266" open="1">
+        <player id="125102"/>
+    </alliance>
+    <alliance id="500617" name="FredyTurbina" tag="Fredy" founder="126011" foundDate="1615303463" open="1">
+        <player id="126011"/>
+    </alliance>
+    <alliance id="500621" name="Dads Of Anarchy" tag="DADS" founder="122164" foundDate="1616867983" open="1">
+        <player id="122164"/>
+        <player id="122907"/>
+    </alliance>
+    <alliance id="500624" name="Les chevres" tag="Chevres" founder="117238" foundDate="1617909789" logo="https://cdn.radiofrance.fr/s3/cruiser-production/2018/09/84e1eadc-9207-4548-9962-60f696266b15/1136_chevres_gettyimages-89020955.jpg" open="1">
+        <player id="117238"/>
+        <player id="118488"/>
+    </alliance>
+    <alliance id="500625" name="SOLO" tag="SOLO" founder="125319" foundDate="1617975446" open="1">
+        <player id="125319"/>
+        <player id="131242"/>
+    </alliance>
+    <alliance id="500627" name="RZD" tag="RZD" founder="123474" foundDate="1620660350" logo="https://abload.de/img/gifius.ru1qlkjn.gif" open="1">
+        <player id="123474"/>
+    </alliance>
+    <alliance id="500630" name="Faction Rebelle" tag="FaRe" founder="119771" foundDate="1620802936" open="1">
+        <player id="119771"/>
+    </alliance>
+    <alliance id="500642" name="Yoh" tag="Yoh" founder="125151" foundDate="1620814601" open="1">
+        <player id="125151"/>
+    </alliance>
+    <alliance id="500643" name="Gophers" tag="Gophers" founder="126620" foundDate="1620814601" open="1">
+        <player id="126620"/>
+        <player id="127229"/>
+    </alliance>
+    <alliance id="500646" name="No1" tag="Number1" founder="126639" foundDate="1620815558" open="1">
+        <player id="126639"/>
+    </alliance>
+    <alliance id="500650" name="HAllo" tag="HAllo" founder="125225" foundDate="1620815963" open="1">
+        <player id="125225"/>
+    </alliance>
+    <alliance id="500654" name="ELX" tag="ELX" founder="124977" foundDate="1620816533" open="1">
+        <player id="124977"/>
+    </alliance>
+    <alliance id="500659" name="SAP" tag="SAP" founder="116436" foundDate="1620817214" open="1">
+        <player id="116436"/>
+    </alliance>
+    <alliance id="500666" name="Rollo" tag="asdf" founder="125790" foundDate="1620817924" open="1">
+        <player id="125790"/>
+    </alliance>
+    <alliance id="500670" name="tester" tag="123" founder="124282" foundDate="1620818895" open="1">
+        <player id="124282"/>
+    </alliance>
+    <alliance id="500674" name="asd" tag="asd" founder="123451" foundDate="1620819754" open="1">
+        <player id="123451"/>
+    </alliance>
+    <alliance id="500688" name="Ascension" tag="ASC" founder="125370" foundDate="1620822222" open="1">
+        <player id="125370"/>
+    </alliance>
+    <alliance id="500692" name="1234" tag="213" founder="122644" foundDate="1620822691" open="1">
+        <player id="122644"/>
+    </alliance>
+    <alliance id="500700" name="asdf" tag="asdff" founder="117847" foundDate="1620825822" open="1">
+        <player id="117847"/>
+    </alliance>
+    <alliance id="500703" name="Little Nightmares" tag="Six" founder="123101" foundDate="1620827337" open="1">
+        <player id="123101"/>
+    </alliance>
+    <alliance id="500704" name="Holstein Kiel" tag="KSV" founder="101385" foundDate="1620828758" open="1">
+        <player id="101385"/>
+        <player id="133293"/>
+    </alliance>
+    <alliance id="500708" name="Versuch" tag="Versuch" founder="121612" foundDate="1620830505" open="1">
+        <player id="121612"/>
+    </alliance>
+    <alliance id="500713" name="WANTED" tag="WTD" founder="124304" foundDate="1620833233" open="1">
+        <player id="124304"/>
+    </alliance>
+    <alliance id="500720" name="MIDDLE" tag="MIDDLE" founder="116527" foundDate="1620839006" open="1">
+        <player id="116527"/>
+    </alliance>
+    <alliance id="500722" name="HaBeBug" tag="HGH" founder="117176" foundDate="1620840142" open="1">
+        <player id="117176"/>
+    </alliance>
+    <alliance id="500726" name="deveti paviljon" tag="9ti" founder="125486" foundDate="1620842925">
+        <player id="125486"/>
+    </alliance>
+    <alliance id="500727" name="Toto" tag="Toto" founder="116921" foundDate="1620843686" open="1">
+        <player id="116921"/>
+    </alliance>
+    <alliance id="500729" name="La coalition des mineur" tag="LCD" founder="124637" foundDate="1620844814" open="1">
+        <player id="124637"/>
+    </alliance>
+    <alliance id="500742" name="INC Playground" tag="INC" founder="126592" foundDate="1620860146" logo="https://www.junglegym.de/media/catalog/product/cache/73c6e18d70155afcec31c7b7c2844270/1/0/1000x1300_explorer-2climb_frame_geel.jpg" open="1">
+        <player id="126592"/>
+        <player id="128813"/>
+        <player id="129020"/>
+        <player id="128972"/>
+        <player id="128710"/>
+        <player id="128606"/>
+    </alliance>
+    <alliance id="500753" name="Simsalabim" tag="Simba" founder="125193" foundDate="1620919080" open="1">
+        <player id="125193"/>
+    </alliance>
+    <alliance id="500759" name="All Over It" tag="A-O-I" founder="126663" foundDate="1620953490" open="1">
+        <player id="126663"/>
+    </alliance>
+    <alliance id="500767" name="und Passiv" tag="Inaktiv" founder="126603" foundDate="1621016399" open="1">
+        <player id="126603"/>
+    </alliance>
+    <alliance id="500768" name="holi" tag="holi" founder="116336" foundDate="1621060185" open="1">
+        <player id="116336"/>
+    </alliance>
+    <alliance id="500788" name="Testowanie PL" tag="Rosalind" founder="126746" foundDate="1621320153" open="1">
+        <player id="126746"/>
+    </alliance>
+    <alliance id="500794" name="12345" tag="12345" founder="116386" foundDate="1621357398" open="1">
+        <player id="116386"/>
+    </alliance>
+    <alliance id="500805" name="ffdf" tag="kkkk" founder="123380" foundDate="1621618596" open="1">
+        <player id="123380"/>
+    </alliance>
+    <alliance id="500808" name="tugas landia" tag="tugas" founder="110121" foundDate="1621709215" open="1">
+        <player id="110121"/>
+    </alliance>
+    <alliance id="500813" name="qqqqqq" tag="qqq" founder="126793" foundDate="1621881945" open="1">
+        <player id="126793"/>
+    </alliance>
+    <alliance id="500826" name="Hungary" tag="Hungary" founder="126854" foundDate="1622520814" open="1">
+        <player id="126854"/>
+        <player id="119151"/>
+        <player id="129471"/>
+        <player id="130039"/>
+    </alliance>
+    <alliance id="500836" name="dumpsite" tag="dumpsite" founder="107906" foundDate="1622802138" open="1">
+        <player id="107906"/>
+    </alliance>
+    <alliance id="500841" name="plop" tag="plop" founder="124790" foundDate="1622827788" open="1">
+        <player id="124790"/>
+    </alliance>
+    <alliance id="500846" name="zalacsakegyvan" tag="Zala" founder="125545" foundDate="1622898441" open="1">
+        <player id="125545"/>
+    </alliance>
+    <alliance id="500853" name="NIE PODDAMY SIE" tag="NPS" founder="126860" foundDate="1622979237" open="1">
+        <player id="126860"/>
+    </alliance>
+    <alliance id="500870" name="Manyo" tag="Yoman" founder="126886" foundDate="1623509820" open="1">
+        <player id="126886"/>
+    </alliance>
+    <alliance id="500880" name="testtesttest23" tag="test23" founder="125267" foundDate="1623876735" open="1">
+        <player id="125267"/>
+    </alliance>
+    <alliance id="500881" name="Les Mecs PaS SymPa" tag="LMPS" founder="121181" foundDate="1623877604" open="1">
+        <player id="121181"/>
+    </alliance>
+    <alliance id="500882" name="Q2DM1" tag="Q2DM1" founder="123522" foundDate="1623899392" open="1">
+        <player id="123522"/>
+    </alliance>
+    <alliance id="500883" name="All-In" tag="All-In" founder="125647" foundDate="1623925894" open="1">
+        <player id="125647"/>
+    </alliance>
+    <alliance id="500890" name="213321" tag="213123" founder="124808" foundDate="1624033340" open="1">
+        <player id="124808"/>
+    </alliance>
+    <alliance id="500893" name="Allianz" tag="Alleanz" founder="120766" foundDate="1624161943" open="1">
+        <player id="120766"/>
+    </alliance>
+    <alliance id="500896" name="CAPRONE" tag="CAPRA" founder="118145" foundDate="1624290336" open="1">
+        <player id="118145"/>
+    </alliance>
+    <alliance id="500899" name="TEST V8" tag="TESTALLI" founder="125359" foundDate="1624309036" open="1">
+        <player id="125359"/>
+    </alliance>
+    <alliance id="500904" name="asasa22" tag="qwe231" founder="124954" foundDate="1624457938" open="1">
+        <player id="124954"/>
+    </alliance>
+    <alliance id="500905" name="My Little Pony" tag="MLP" founder="126923" foundDate="1624464401" open="1">
+        <player id="126923"/>
+        <player id="126928"/>
+    </alliance>
+    <alliance id="500915" name="Sparks" tag="Bzzzt" founder="126944" foundDate="1624813695" open="1">
+        <player id="126944"/>
+        <player id="126881"/>
+        <player id="127095"/>
+        <player id="129263"/>
+        <player id="136982"/>
+    </alliance>
+    <alliance id="500921" name="SO LOnely" tag="SO-LO" founder="126955" foundDate="1625068443">
+        <player id="126955"/>
+    </alliance>
+    <alliance id="500924" name="ohne stress" tag="o-s" founder="120548" foundDate="1625138049" open="1">
+        <player id="120548"/>
+        <player id="128542"/>
+    </alliance>
+    <alliance id="500928" name="Sessiiz" tag="Karakale" founder="126973" foundDate="1625221547" open="1">
+        <player id="126973"/>
+    </alliance>
+    <alliance id="500933" name="Antijen" tag="Doktor-X" founder="118134" foundDate="1625243158" open="1">
+        <player id="118134"/>
+    </alliance>
+    <alliance id="500935" name="Ircworld" tag="Irc" founder="116290" foundDate="1625250701" open="1">
+        <player id="116290"/>
+    </alliance>
+    <alliance id="500939" name="dsasd" tag="iso" founder="127044" foundDate="1625323002" open="1">
+        <player id="127044"/>
+    </alliance>
+    <alliance id="500954" name="Home" tag="Home" founder="125190" foundDate="1625913145" open="1">
+        <player id="125190"/>
+    </alliance>
+    <alliance id="500957" name="LyjaWorld" tag="Crazy" founder="126976" foundDate="1625983186" open="1">
+        <player id="126976"/>
+    </alliance>
+    <alliance id="500962" name="We are the Borg" tag="BRG" founder="127106" foundDate="1626201858" open="1">
+        <player id="127106"/>
+    </alliance>
+    <alliance id="500968" name="galaxy" tag="comander" founder="122924" foundDate="1626465576" open="1">
+        <player id="122924"/>
+    </alliance>
+    <alliance id="500970" name="Energy" tag="NRG" founder="122762" foundDate="1626518481" open="1">
+        <player id="122762"/>
+        <player id="127189"/>
+        <player id="126729"/>
+        <player id="128417"/>
+    </alliance>
+    <alliance id="500979" name="Redemption" tag="R-D" founder="127148" foundDate="1627494398" open="1">
+        <player id="127148"/>
+    </alliance>
+    <alliance id="500981" name="Expo-Alliance" tag="EXPO" founder="117896" foundDate="1627656830" logo="https://static.wikia.nocookie.net/ogame/images/2/21/78874284_2928934943785413_2306253174295494656_o.jpg" open="1">
+        <player id="117896"/>
+    </alliance>
+    <alliance id="500982" name="Katip" tag="Katip" founder="127166" foundDate="1627773057" open="1">
+        <player id="127166"/>
+    </alliance>
+    <alliance id="501008" name="Earth Defense Force" tag="EDF" founder="127314" foundDate="1631990329" logo="https://cdn.discordapp.com/attachments/391705959522762754/768747392882180096/EDFLogo.png" open="1">
+        <player id="127314"/>
+        <player id="133936"/>
+        <player id="134476"/>
+        <player id="134743"/>
+    </alliance>
+    <alliance id="501014" name="DST" tag="DST" founder="127328" foundDate="1632407383" open="1">
+        <player id="127328"/>
+    </alliance>
+    <alliance id="501017" name="acdc" tag="acdc" founder="127339" foundDate="1632652159" open="1">
+        <player id="127339"/>
+    </alliance>
+    <alliance id="501025" name="Oto lama ambiwalentna" tag="OLA" founder="119711" foundDate="1634485480" open="1">
+        <player id="119711"/>
+    </alliance>
+    <alliance id="501027" name="NATO" tag="AWACS" founder="127440" foundDate="1634742821" open="1">
+        <player id="127440"/>
+        <player id="127355"/>
+    </alliance>
+    <alliance id="501033" name="Ex Yugoslavia" tag="ExYu" founder="127462" foundDate="1635431794" open="1">
+        <player id="127462"/>
+        <player id="129971"/>
+        <player id="133543"/>
+        <player id="130952"/>
+        <player id="134534"/>
+    </alliance>
+    <alliance id="501038" name="FreakyFamily" tag="FoF" founder="127490" foundDate="1635683079" open="1">
+        <player id="127490"/>
+    </alliance>
+    <alliance id="501042" name="BiZE_HER_YER_TRABZON" tag="B_H_T" founder="117757" foundDate="1636473836">
+        <player id="117757"/>
+    </alliance>
+    <alliance id="501044" name="Massive Dynamics" tag="Ignition" founder="122721" foundDate="1637317073" open="1">
+        <player id="122721"/>
+    </alliance>
+    <alliance id="501052" name="Komutan logar" tag="LOGAR" founder="127583" foundDate="1638289484" open="1">
+        <player id="127583"/>
+    </alliance>
+    <alliance id="501057" name="Jedi Knights" tag="Jedi" founder="113229" foundDate="1639072411" open="1">
+        <player id="113229"/>
+        <player id="125065"/>
+        <player id="117399"/>
+        <player id="129769"/>
+        <player id="128254"/>
+        <player id="130549"/>
+        <player id="131025"/>
+        <player id="131497"/>
+        <player id="117971"/>
+        <player id="130520"/>
+        <player id="131754"/>
+        <player id="131500"/>
+        <player id="129121"/>
+        <player id="131483"/>
+        <player id="132456"/>
+        <player id="131731"/>
+        <player id="132286"/>
+        <player id="132996"/>
+        <player id="133603"/>
+        <player id="133841"/>
+        <player id="134157"/>
+        <player id="127991"/>
+        <player id="134700"/>
+        <player id="127945"/>
+        <player id="134627"/>
+    </alliance>
+    <alliance id="501062" name="dfgdfgdf" tag="gfdfgd" founder="127384" foundDate="1639608678" open="1">
+        <player id="127384"/>
+    </alliance>
+    <alliance id="501065" name="DarkD" tag="DarkD" founder="119949" foundDate="1640192889" open="1">
+        <player id="119949"/>
+    </alliance>
+    <alliance id="501068" name="tengiz" tag="tengiz a" founder="127612" foundDate="1640939344" open="1">
+        <player id="127612"/>
+    </alliance>
+    <alliance id="501070" name="EXELIONS" tag="EXE" founder="124363" foundDate="1641054388" open="1">
+        <player id="124363"/>
+    </alliance>
+    <alliance id="501072" name="fghkgfhk" tag="fgjk" founder="123481" foundDate="1641486139" open="1">
+        <player id="123481"/>
+    </alliance>
+    <alliance id="501073" name="root" tag="root" founder="127736" foundDate="1641679485" logo="https://external-preview.redd.it/PGu2-xXVFLyvqSQ6Fj8tVvewd1W6exFPHvlDKNc0Sfs.jpg?auto=webp&amp;s=cbe86a9031c037d2e92967104b104ee785a432ed" open="1">
+        <player id="127736"/>
+    </alliance>
+    <alliance id="501074" name="The Terran Confederation" tag="CONFED" founder="127747" foundDate="1642326237" open="1">
+        <player id="127747"/>
+        <player id="127743"/>
+        <player id="127748"/>
+        <player id="127753"/>
+        <player id="127761"/>
+        <player id="127752"/>
+    </alliance>
+    <alliance id="501075" name="Haggy" tag="Hag" founder="127744" foundDate="1642468554" open="1">
+        <player id="127744"/>
+    </alliance>
+    <alliance id="501078" name="cake bakery" tag="cake" founder="115405" foundDate="1643288450" open="1">
+        <player id="115405"/>
+    </alliance>
+    <alliance id="501081" name="Alliance of Chaos" tag="AOC" founder="127601" foundDate="1643584054" open="1">
+        <player id="127601"/>
+    </alliance>
+    <alliance id="501083" name="xtest0rx" tag="xtestx" founder="127794" foundDate="1643833446" open="1">
+        <player id="127794"/>
+    </alliance>
+    <alliance id="501084" name="tzutzutz" tag="uzt" founder="127799" foundDate="1643884521" open="1">
+        <player id="127799"/>
+    </alliance>
+    <alliance id="501087" name="history" tag="topgun74" founder="127802" foundDate="1644092359" open="1">
+        <player id="127802"/>
+    </alliance>
+    <alliance id="501088" name="Xxxxxxxxxx" tag="Xxxxx" founder="127805" foundDate="1644119530" open="1">
+        <player id="127805"/>
+    </alliance>
+    <alliance id="501098" name="Bomb" tag="TNT" founder="127809" foundDate="1644809247" open="1">
+        <player id="127809"/>
+    </alliance>
+    <alliance id="501099" name="Band-Maid" tag="B-M" founder="127438" foundDate="1645476490" logo="https://img.barks.jp/image/review/1000196020/01.jpg" open="1">
+        <player id="127438"/>
+    </alliance>
+    <alliance id="501101" name="uuuuuuuu" tag="uuuuuuuu" founder="127851" foundDate="1645646033" open="1">
+        <player id="127851"/>
+    </alliance>
+    <alliance id="501103" name="GUERREIROS ESPACIAIS" tag="GUE ESP" founder="127857" foundDate="1645881108" open="1">
+        <player id="127857"/>
+    </alliance>
+    <alliance id="501105" name="crew" tag="crew" founder="127848" foundDate="1646212456" open="1">
+        <player id="127848"/>
+        <player id="127853"/>
+        <player id="131046"/>
+    </alliance>
+    <alliance id="501106" name="xxx" tag="xxx" founder="127870" foundDate="1646560595" open="1">
+        <player id="127870"/>
+    </alliance>
+    <alliance id="501108" name="Space Knights" tag="KNI" founder="127884" foundDate="1647689896" open="1">
+        <player id="127884"/>
+    </alliance>
+    <alliance id="501110" name="SGA" tag="SGA" founder="126847" foundDate="1648931623" open="1">
+        <player id="126847"/>
+    </alliance>
+    <alliance id="501112" name="OSI" tag="OSI" founder="117421" foundDate="1649187331" open="1">
+        <player id="117421"/>
+    </alliance>
+    <alliance id="501113" name="xxxx" tag="xxxx" founder="127888" foundDate="1649349211" open="1">
+        <player id="127888"/>
+    </alliance>
+    <alliance id="501115" name="YALNIZ ADAM" tag="DUYGUSAL" founder="127911" foundDate="1649504500" open="1">
+        <player id="127911"/>
+    </alliance>
+    <alliance id="501117" name="HANEDAN" tag="HAN" founder="127732" foundDate="1650031769" open="1">
+        <player id="127732"/>
+    </alliance>
+    <alliance id="501120" name="SNOW" tag="Snow" founder="127927" foundDate="1650652059" open="1">
+        <player id="127927"/>
+    </alliance>
+    <alliance id="501122" name="RUTeam" tag="RUTeam" founder="127965" foundDate="1650735371" open="1">
+        <player id="127939"/>
+        <player id="127938"/>
+        <player id="127950"/>
+        <player id="127965"/>
+        <player id="127981"/>
+        <player id="128049"/>
+        <player id="129150"/>
+        <player id="127893"/>
+    </alliance>
+    <alliance id="501123" name="Gln" tag="Gallien" founder="127940" foundDate="1650748035" open="1">
+        <player id="127940"/>
+    </alliance>
+    <alliance id="501124" name="FEGA" tag="FEGA" founder="127766" foundDate="1650793417" open="1">
+        <player id="127766"/>
+    </alliance>
+    <alliance id="501125" name="HEY" tag="HEY" founder="127128" foundDate="1650909579" open="1">
+        <player id="127128"/>
+        <player id="130661"/>
+        <player id="127866"/>
+        <player id="128998"/>
+    </alliance>
+    <alliance id="501126" name="REtarDeD" tag="REDD" founder="127960" foundDate="1650961512" open="1">
+        <player id="127960"/>
+    </alliance>
+    <alliance id="501130" name="alliance" tag="alliance" founder="128041" foundDate="1650976896" open="1">
+        <player id="128041"/>
+    </alliance>
+    <alliance id="501131" name="ADAM SUN ONLY" tag="ASO" founder="128008" foundDate="1650977019" open="1">
+        <player id="128008"/>
+    </alliance>
+    <alliance id="501132" name="Les oRDuRes" tag="r2r" founder="128112" foundDate="1650978096" open="1">
+        <player id="128112"/>
+        <player id="128050"/>
+        <player id="130828"/>
+        <player id="132714"/>
+    </alliance>
+    <alliance id="501133" name="SANCAK" tag="SANCAK" founder="128354" foundDate="1650978956" open="1">
+        <player id="128354"/>
+    </alliance>
+    <alliance id="501134" name="frytki" tag="frytki" founder="128408" foundDate="1650979218" open="1">
+        <player id="128408"/>
+        <player id="128492"/>
+        <player id="129209"/>
+        <player id="133324"/>
+        <player id="133273"/>
+        <player id="130854"/>
+    </alliance>
+    <alliance id="501135" name="EXPLORATEUR" tag="EXPLO" founder="117864" foundDate="1650979538" open="1">
+        <player id="117864"/>
+    </alliance>
+    <alliance id="501137" name="DE-Bayern" tag="DE-Test" founder="128800" foundDate="1650981786" open="1">
+        <player id="128800"/>
+    </alliance>
+    <alliance id="501138" name="Testsd" tag="Testasd" founder="128515" foundDate="1650981928" open="1">
+        <player id="128515"/>
+    </alliance>
+    <alliance id="501141" name="testset" tag="testtest" founder="128187" foundDate="1650982355" open="1">
+        <player id="128187"/>
+    </alliance>
+    <alliance id="501142" name="MinersandMerchants" tag="MyM" founder="128773" foundDate="1650982393" open="1">
+        <player id="128773"/>
+    </alliance>
+    <alliance id="501144" name="Farms" tag="Farms" founder="128804" foundDate="1650982529" open="1">
+        <player id="128804"/>
+    </alliance>
+    <alliance id="501145" name="Testamba" tag="TAS" founder="128290" foundDate="1650982571" open="1">
+        <player id="128290"/>
+    </alliance>
+    <alliance id="501146" name="Serial Assasins Mode" tag="SAM" founder="128476" foundDate="1650982614" open="1">
+        <player id="128476"/>
+    </alliance>
+    <alliance id="501148" name="Forget Thy Name" tag="FTN" founder="128735" foundDate="1650982887" open="1">
+        <player id="128735"/>
+    </alliance>
+    <alliance id="501150" name="YOGI" tag="YOGI" founder="128451" foundDate="1650983339" open="1">
+        <player id="128451"/>
+    </alliance>
+    <alliance id="501152" name="Lizalica" tag="LZCA" founder="128897" foundDate="1650983688" open="1">
+        <player id="128897"/>
+    </alliance>
+    <alliance id="501154" name="KIS OYUNCUSU" tag="121" founder="128956" foundDate="1650984331" open="1">
+        <player id="128956"/>
+    </alliance>
+    <alliance id="501155" name="we laugh" tag="LOL" founder="128482" foundDate="1650984630" open="1">
+        <player id="128482"/>
+        <player id="129136"/>
+        <player id="129096"/>
+    </alliance>
+    <alliance id="501156" name="PIRATAE" tag="PIRATAE" founder="129089" foundDate="1650984760" open="1">
+        <player id="129089"/>
+    </alliance>
+    <alliance id="501157" name="Veritas Aequitas" tag="V-A" founder="129105" foundDate="1650984804" open="1">
+        <player id="129105"/>
+        <player id="129163"/>
+    </alliance>
+    <alliance id="501158" name="sea" tag="SEA" founder="128719" foundDate="1650984944" open="1">
+        <player id="128719"/>
+    </alliance>
+    <alliance id="501159" name="qwer" tag="qwer" founder="128534" foundDate="1650985212" open="1">
+        <player id="128534"/>
+    </alliance>
+    <alliance id="501160" name="Discoverer" tag="Discover" founder="129137" foundDate="1650985258" open="1">
+        <player id="129137"/>
+    </alliance>
+    <alliance id="501161" name="HWDP" tag="GLHF" founder="128085" foundDate="1650985274" open="1">
+        <player id="128085"/>
+    </alliance>
+    <alliance id="501164" name="Yyy" tag="Yyy" founder="128194" foundDate="1650986584" open="1">
+        <player id="128194"/>
+    </alliance>
+    <alliance id="501166" name="Dragones City" tag="Dragons" founder="129224" foundDate="1650987600" open="1">
+        <player id="129224"/>
+    </alliance>
+    <alliance id="501167" name="Beer" tag="Beer" founder="128146" foundDate="1650987617" open="1">
+        <player id="128146"/>
+    </alliance>
+    <alliance id="501168" name="It Still Does Nothing" tag="ISDN" founder="129052" foundDate="1650987755" open="1">
+        <player id="129052"/>
+    </alliance>
+    <alliance id="501169" name="aaaa" tag="aaaa" founder="128940" foundDate="1650987885" open="1">
+        <player id="128940"/>
+    </alliance>
+    <alliance id="501171" name="Test Ally" tag="TAY" founder="129134" foundDate="1650988087" open="1">
+        <player id="129134"/>
+    </alliance>
+    <alliance id="501172" name="Diamond Dogs" tag="DDoGS" founder="128431" foundDate="1650989439" open="1">
+        <player id="128431"/>
+        <player id="128178"/>
+        <player id="129474"/>
+        <player id="127933"/>
+        <player id="130049"/>
+    </alliance>
+    <alliance id="501173" name="Rubble" tag="Rubble" founder="128668" foundDate="1650989528" open="1">
+        <player id="128668"/>
+        <player id="130350"/>
+    </alliance>
+    <alliance id="501175" name="EvoNasITu" tag="HRSRBiH" founder="129362" foundDate="1650990305" open="1">
+        <player id="129362"/>
+    </alliance>
+    <alliance id="501176" name="Jumanji" tag="JuM" founder="128029" foundDate="1650990505" open="1">
+        <player id="128029"/>
+        <player id="127946"/>
+        <player id="128124"/>
+        <player id="131817"/>
+    </alliance>
+    <alliance id="501177" name="LES GENTLEMAN GALACTIQUES" tag="OTEPA" founder="129451" foundDate="1650990554" open="1">
+        <player id="129451"/>
+        <player id="129386"/>
+        <player id="130282"/>
+        <player id="130449"/>
+        <player id="133952"/>
+        <player id="134381"/>
+        <player id="134018"/>
+        <player id="134349"/>
+        <player id="128020"/>
+        <player id="128239"/>
+    </alliance>
+    <alliance id="501178" name="Husaria" tag="HUS" founder="128841" foundDate="1650990846" open="1">
+        <player id="128841"/>
+    </alliance>
+    <alliance id="501181" name="Corbeau InterGalactique" tag="CIG" founder="129567" foundDate="1650992234" logo="https://conscience-et-realites.com/wp-content/uploads/xCorbeau-Filant.png.pagespeed.ic._hU2hB4XvU.jpg" open="1">
+        <player id="129567"/>
+    </alliance>
+    <alliance id="501182" name="STARCRAFT" tag="SC-PROTO" founder="128344" foundDate="1650992342" open="1">
+        <player id="128344"/>
+    </alliance>
+    <alliance id="501184" name="Bob" tag="Bob" founder="118888" foundDate="1650992518" open="1">
+        <player id="118888"/>
+    </alliance>
+    <alliance id="501185" name="PARAZITY" tag="PARAZITY" founder="129223" foundDate="1650993096" open="1">
+        <player id="129223"/>
+    </alliance>
+    <alliance id="501186" name="Germany" tag="Germany" founder="129593" foundDate="1650993253" open="1">
+        <player id="129593"/>
+    </alliance>
+    <alliance id="501187" name="La meilleure" tag="FLG-DLE" founder="128181" foundDate="1650993609" open="1">
+        <player id="128181"/>
+        <player id="129685"/>
+    </alliance>
+    <alliance id="501190" name="Flute" tag="Fluters" founder="129644" foundDate="1650994351" open="1">
+        <player id="129644"/>
+    </alliance>
+    <alliance id="501192" name="TheNumberOfTheBeast" tag="666" founder="129582" foundDate="1650995003" open="1">
+        <player id="129582"/>
+    </alliance>
+    <alliance id="501193" name="Furtif" tag="FURTIF" founder="129739" foundDate="1650995083" open="1">
+        <player id="129739"/>
+    </alliance>
+    <alliance id="501195" name="goma" tag="ggggg" founder="129765" foundDate="1650995665" open="1">
+        <player id="129765"/>
+    </alliance>
+    <alliance id="501197" name="NotFound" tag="404" founder="129314" foundDate="1650996295" open="1">
+        <player id="129314"/>
+    </alliance>
+    <alliance id="501198" name="pax" tag="pax" founder="129711" foundDate="1650996417" open="1">
+        <player id="129711"/>
+    </alliance>
+    <alliance id="501199" name="Test Lebensformen" tag="Test L" founder="129823" foundDate="1650996999" open="1">
+        <player id="129823"/>
+    </alliance>
+    <alliance id="501200" name="Black Flag" tag="BLK" founder="129525" foundDate="1650997263" open="1">
+        <player id="129525"/>
+    </alliance>
+    <alliance id="501201" name="TV12TTB" tag="TVT12" founder="127986" foundDate="1650997314" open="1">
+        <player id="127986"/>
+    </alliance>
+    <alliance id="501202" name="ALDI" tag="ALDI" founder="129365" foundDate="1650997615" open="1">
+        <player id="129365"/>
+    </alliance>
+    <alliance id="501203" name="BOO" tag="BOO" founder="101630" foundDate="1650997837" open="1">
+        <player id="101630"/>
+    </alliance>
+    <alliance id="501204" name="Spectre" tag="ScE" founder="128402" foundDate="1650998016" open="1">
+        <player id="128402"/>
+    </alliance>
+    <alliance id="501205" name="ZeroChill-Freunde-Club" tag="ChillFC" founder="128099" foundDate="1650998288" logo="https://i.ibb.co/F69j2YK/1111.png" open="1">
+        <player id="128099"/>
+        <player id="128626"/>
+        <player id="128580"/>
+        <player id="128025"/>
+        <player id="127970"/>
+        <player id="128113"/>
+        <player id="128006"/>
+    </alliance>
+    <alliance id="501206" name="Unification" tag="Starborn" founder="129288" foundDate="1650998552" open="1">
+        <player id="129288"/>
+        <player id="130981"/>
+        <player id="131267"/>
+        <player id="130190"/>
+        <player id="128793"/>
+        <player id="130803"/>
+        <player id="132234"/>
+        <player id="133734"/>
+        <player id="130368"/>
+    </alliance>
+    <alliance id="501207" name="Medic" tag="Medic" founder="129043" foundDate="1650998954" open="1">
+        <player id="129043"/>
+    </alliance>
+    <alliance id="501208" name="Imperium Vega" tag="VEGA" founder="128205" foundDate="1650998970" open="1">
+        <player id="128205"/>
+    </alliance>
+    <alliance id="501209" name="game of throne" tag="GOT" founder="129446" foundDate="1650999002" open="1">
+        <player id="129093"/>
+        <player id="129446"/>
+        <player id="132484"/>
+    </alliance>
+    <alliance id="501210" name="BUGame" tag="BUGame" founder="133390" foundDate="1650999015" open="1">
+        <player id="133390"/>
+    </alliance>
+    <alliance id="501211" name="BBB" tag="AAA123" founder="128245" foundDate="1650999240" open="1">
+        <player id="128245"/>
+    </alliance>
+    <alliance id="501213" name="Allie" tag="Aience" founder="129697" foundDate="1650999923" open="1">
+        <player id="129697"/>
+    </alliance>
+    <alliance id="501214" name="TheToasters" tag="ThTo" founder="129461" foundDate="1650999981" open="1">
+        <player id="129461"/>
+    </alliance>
+    <alliance id="501215" name="Sam Przeciwko Wszystkim" tag="SPW" founder="130017" foundDate="1651001449" open="1">
+        <player id="130017"/>
+    </alliance>
+    <alliance id="501216" name="omegalul" tag="ogm" founder="129791" foundDate="1651002353" open="1">
+        <player id="129791"/>
+    </alliance>
+    <alliance id="501219" name="ROMANIAN OGAME" tag="ROGUE" founder="128360" foundDate="1651003419" homepage="https://board.ro.ogame.gameforge.com/" logo="https://www.militarysurplus.ro/eng_pl_Flag-of-Romania-with-Dacian-Wolf-34612_1.jpg" open="1">
+        <player id="128360"/>
+        <player id="129164"/>
+        <player id="130710"/>
+        <player id="128781"/>
+        <player id="129819"/>
+        <player id="128792"/>
+        <player id="128863"/>
+        <player id="131598"/>
+        <player id="129812"/>
+        <player id="131772"/>
+        <player id="128868"/>
+        <player id="128906"/>
+        <player id="131723"/>
+        <player id="132656"/>
+    </alliance>
+    <alliance id="501220" name="No Name Alliance" tag="NNA" founder="130076" foundDate="1651004131" open="1">
+        <player id="130076"/>
+    </alliance>
+    <alliance id="501221" name="PENCE" tag="PENCE" founder="129548" foundDate="1651004617" open="1">
+        <player id="129548"/>
+    </alliance>
+    <alliance id="501223" name="BetaFlemNix" tag="BetaFlem" founder="129963" foundDate="1651005355" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ14sHschUQjLe5a9b3mQlIhSqPb9NAUhhbYQ&amp;usqp=CAU" open="1">
+        <player id="129963"/>
+        <player id="129984"/>
+    </alliance>
+    <alliance id="501224" name="Killing Fleet Cooperation" tag="K F C" founder="128756" foundDate="1651005622" open="1">
+        <player id="128756"/>
+    </alliance>
+    <alliance id="501225" name="Tok Kek" tag="KEK" founder="130144" foundDate="1651006838" open="1">
+        <player id="130144"/>
+        <player id="130145"/>
+    </alliance>
+    <alliance id="501226" name="English Test" tag="ENT" founder="129939" foundDate="1651006998" open="1">
+        <player id="129939"/>
+        <player id="133032"/>
+    </alliance>
+    <alliance id="501227" name="Big Time Mining Inc" tag="btmi" founder="128574" foundDate="1651007015" open="1">
+        <player id="128574"/>
+        <player id="128137"/>
+        <player id="130196"/>
+        <player id="130340"/>
+        <player id="132887"/>
+        <player id="131496"/>
+    </alliance>
+    <alliance id="501228" name="aaaaaaa" tag="aaaaaaa" founder="129496" foundDate="1651007132" open="1">
+        <player id="129496"/>
+        <player id="122329"/>
+        <player id="132251"/>
+        <player id="130716"/>
+        <player id="118035"/>
+        <player id="133143"/>
+    </alliance>
+    <alliance id="501229" name="Bodger and badger" tag="Badgers" founder="128059" foundDate="1651007457" open="1">
+        <player id="128059"/>
+    </alliance>
+    <alliance id="501232" name="999" tag="99999999" founder="129947" foundDate="1651008273" open="1">
+        <player id="129947"/>
+    </alliance>
+    <alliance id="501233" name="NOFEAR" tag="NFR" founder="124945" foundDate="1651008621" open="1">
+        <player id="124945"/>
+    </alliance>
+    <alliance id="501234" name="TestAlli" tag="TesAl" founder="129917" foundDate="1651008670" open="1">
+        <player id="129917"/>
+    </alliance>
+    <alliance id="501235" name="ranger" tag="Ranger" founder="126387" foundDate="1651008840" open="1">
+        <player id="126387"/>
+        <player id="130260"/>
+    </alliance>
+    <alliance id="501236" name="Test9" tag="TST9" founder="130251" foundDate="1651008940" open="1">
+        <player id="130251"/>
+    </alliance>
+    <alliance id="501241" name="Soul Soldiers" tag="S-S" founder="130256" foundDate="1651010180" open="1">
+        <player id="130256"/>
+    </alliance>
+    <alliance id="501242" name="Shiny Schlurp" tag="Shiny" founder="127919" foundDate="1651010216" open="1">
+        <player id="127919"/>
+    </alliance>
+    <alliance id="501243" name="Velhos Jogadores" tag="VJOGAME" founder="128949" foundDate="1651010970" open="1">
+        <player id="128949"/>
+    </alliance>
+    <alliance id="501245" name="work in progress" tag="wip" founder="130224" foundDate="1651011690" open="1">
+        <player id="130224"/>
+    </alliance>
+    <alliance id="501246" name="allyklass" tag="klass" founder="129944" foundDate="1651012931" open="1">
+        <player id="129944"/>
+    </alliance>
+    <alliance id="501247" name="yok" tag="yok" founder="128350" foundDate="1651013270" open="1">
+        <player id="128350"/>
+    </alliance>
+    <alliance id="501248" name="Rusted Resistance" tag="Rust" founder="119678" foundDate="1651013926" open="1">
+        <player id="119678"/>
+        <player id="130206"/>
+    </alliance>
+    <alliance id="501249" name="abc" tag="ABC" founder="130207" foundDate="1651015273" open="1">
+        <player id="130207"/>
+    </alliance>
+    <alliance id="501250" name="BANG-BANG" tag="KABLAOW" founder="130200" foundDate="1651017410" open="1">
+        <player id="130200"/>
+    </alliance>
+    <alliance id="501254" name="PANDEMIA" tag="PANDEMIA" founder="130232" foundDate="1651024895" open="1">
+        <player id="130232"/>
+        <player id="130247"/>
+    </alliance>
+    <alliance id="501255" name="Alone one" tag="ALO" founder="130365" foundDate="1651026616" open="1">
+        <player id="130365"/>
+    </alliance>
+    <alliance id="501256" name="Yyyyy" tag="Yyyyyy" founder="127269" foundDate="1651028305" open="1">
+        <player id="127269"/>
+    </alliance>
+    <alliance id="501257" name="456456" tag="4563456" founder="130024" foundDate="1651034237" open="1">
+        <player id="130024"/>
+    </alliance>
+    <alliance id="501258" name="Osmanli" tag="Osmanli" founder="128220" foundDate="1651036694" open="1">
+        <player id="128220"/>
+    </alliance>
+    <alliance id="501259" name="Tester0815" tag="Ppp" founder="128612" foundDate="1651037035" open="1">
+        <player id="128612"/>
+    </alliance>
+    <alliance id="501262" name="HueHue" tag="HUE" founder="128499" foundDate="1651038431" open="1">
+        <player id="128499"/>
+    </alliance>
+    <alliance id="501263" name="FRM" tag="FUTURAMA" founder="129022" foundDate="1651039324" open="1">
+        <player id="129022"/>
+    </alliance>
+    <alliance id="501264" name="Tak" tag="Tak" founder="130506" foundDate="1651039555" open="1">
+        <player id="130506"/>
+    </alliance>
+    <alliance id="501265" name="Bester Fly Corporation" tag="BFC" founder="130530" foundDate="1651040405" open="1">
+        <player id="130530"/>
+    </alliance>
+    <alliance id="501267" name="1Ns4Ne" tag="1Ns4Ne" founder="128816" foundDate="1651040617" open="1">
+        <player id="128816"/>
+    </alliance>
+    <alliance id="501268" name="chuchuah" tag="chuchu" founder="128208" foundDate="1651040862" open="1">
+        <player id="128208"/>
+        <player id="128158"/>
+    </alliance>
+    <alliance id="501269" name="UNion Intergalactica" tag="UNI" founder="130398" foundDate="1651040919" open="1">
+        <player id="130398"/>
+    </alliance>
+    <alliance id="501272" name="SOCIAL" tag="SQP" founder="130547" foundDate="1651043265" open="1">
+        <player id="130547"/>
+    </alliance>
+    <alliance id="501274" name="Raiders of Theli" tag="Theli" founder="130591" foundDate="1651044900" open="1">
+        <player id="130591"/>
+    </alliance>
+    <alliance id="501276" name="sith" tag="sith" founder="129119" foundDate="1651045329" open="1">
+        <player id="129119"/>
+        <player id="130566"/>
+    </alliance>
+    <alliance id="501277" name="Old" tag="Old" founder="130166" foundDate="1651045412" open="1">
+        <player id="130166"/>
+    </alliance>
+    <alliance id="501278" name="ADONAY" tag="314" founder="130592" foundDate="1651046187" open="1">
+        <player id="130592"/>
+    </alliance>
+    <alliance id="501279" name="fyeo" tag="fyeo" founder="130502" foundDate="1651046191" open="1">
+        <player id="130502"/>
+    </alliance>
+    <alliance id="501280" name="GITTI" tag="BITMEDI" founder="130521" foundDate="1651046907" open="1">
+        <player id="130521"/>
+    </alliance>
+    <alliance id="501281" name="jfk" tag="jfk" founder="130647" foundDate="1651047261" open="1">
+        <player id="130647"/>
+    </alliance>
+    <alliance id="501283" name="AEZ" tag="AEZ" founder="129700" foundDate="1651047886" open="1">
+        <player id="129700"/>
+    </alliance>
+    <alliance id="501285" name="Ptuga" tag="PTuga" founder="128397" foundDate="1651048518" open="1">
+        <player id="128397"/>
+        <player id="128703"/>
+        <player id="130311"/>
+        <player id="129282"/>
+        <player id="129874"/>
+    </alliance>
+    <alliance id="501286" name="7_7_7" tag="7_7_7" founder="130996" foundDate="1651049141" logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/c9/b9/06/c9b906ab-d9ee-60a2-8e3a-84ad4cd7ce23/source/512x512bb.jpg" open="1">
+        <player id="129807"/>
+        <player id="130584"/>
+        <player id="129674"/>
+        <player id="130996"/>
+        <player id="130420"/>
+        <player id="129160"/>
+        <player id="128333"/>
+        <player id="128384"/>
+        <player id="132396"/>
+        <player id="131221"/>
+    </alliance>
+    <alliance id="501288" name="stay alone" tag="abzug" founder="130701" foundDate="1651050151" open="1">
+        <player id="130701"/>
+    </alliance>
+    <alliance id="501290" name="Pakahontas" tag="Pkhnt" founder="130366" foundDate="1651051077" open="1">
+        <player id="130366"/>
+    </alliance>
+    <alliance id="501291" name="Los cornellos" tag="crn" founder="130708" foundDate="1651051879" open="1">
+        <player id="130708"/>
+    </alliance>
+    <alliance id="501293" name="DWELs" tag="DWEL" founder="129384" foundDate="1651052441" open="1">
+        <player id="129384"/>
+        <player id="130615"/>
+        <player id="134323"/>
+    </alliance>
+    <alliance id="501294" name="Douby Doub" tag="D D" founder="130750" foundDate="1651053446" open="1">
+        <player id="130750"/>
+    </alliance>
+    <alliance id="501295" name="Test2022" tag="Test2022" founder="130126" foundDate="1651054414" open="1">
+        <player id="130126"/>
+    </alliance>
+    <alliance id="501296" name="most valueable player" tag="mvp" founder="119502" foundDate="1651056323" open="1">
+        <player id="119502"/>
+    </alliance>
+    <alliance id="501298" name="Best Test Ally" tag="BTA" founder="128186" foundDate="1651058000" open="1">
+        <player id="128186"/>
+        <player id="130702"/>
+        <player id="130334"/>
+        <player id="131116"/>
+        <player id="133115"/>
+    </alliance>
+    <alliance id="501299" name="NUL" tag="NUL" founder="125216" foundDate="1651058599" open="1">
+        <player id="125216"/>
+    </alliance>
+    <alliance id="501301" name="SenatusPopulusQueRomanus" tag="SPQR" founder="131587" foundDate="1651059544" homepage="https://www.youtube.com/watch?v=DUtnP_KH40I" logo="http://fc01.deviantart.net/fs71/i/2012/220/4/7/spqr_by_beanve-d5ab9sr.png" open="1">
+        <player id="131587"/>
+        <player id="131557"/>
+        <player id="130113"/>
+    </alliance>
+    <alliance id="501302" name="For the win" tag="FTW" founder="130869" foundDate="1651060348" open="1">
+        <player id="130869"/>
+    </alliance>
+    <alliance id="501303" name="Triangle" tag="TRI" founder="130686" foundDate="1651060616" open="1">
+        <player id="130686"/>
+        <player id="129781"/>
+        <player id="129139"/>
+    </alliance>
+    <alliance id="501304" name="2525" tag="2525" founder="130792" foundDate="1651060749" open="1">
+        <player id="130792"/>
+    </alliance>
+    <alliance id="501305" name="123" tag="4abc" founder="124839" foundDate="1651060768" open="1">
+        <player id="124839"/>
+    </alliance>
+    <alliance id="501306" name="tia tio" tag="tic toc" founder="130038" foundDate="1651061930" open="1">
+        <player id="130038"/>
+    </alliance>
+    <alliance id="501312" name="j46j45j4" tag="hh3h" founder="129286" foundDate="1651065947" open="1">
+        <player id="129286"/>
+    </alliance>
+    <alliance id="501313" name="Wir sind dabei" tag="WsD" founder="137092" foundDate="1651067175" open="1">
+        <player id="129477"/>
+        <player id="137092"/>
+    </alliance>
+    <alliance id="501314" name="123457" tag="123457" founder="129714" foundDate="1651067933" open="1">
+        <player id="129714"/>
+    </alliance>
+    <alliance id="501315" name="TEST_II" tag="TEST_II" founder="128859" foundDate="1651068238" open="1">
+        <player id="128859"/>
+    </alliance>
+    <alliance id="501316" name="Looney toones" tag="Lootoo" founder="130317" foundDate="1651068722" open="1">
+        <player id="130317"/>
+    </alliance>
+    <alliance id="501318" name="FR TEST" tag="FR TEST" founder="128633" foundDate="1651069868" open="1">
+        <player id="128633"/>
+        <player id="128125"/>
+        <player id="131533"/>
+    </alliance>
+    <alliance id="501319" name="OldSchool" tag="IMBA" founder="128989" foundDate="1651069872" open="1">
+        <player id="128989"/>
+    </alliance>
+    <alliance id="501320" name="DCM" tag="DCM" founder="130682" foundDate="1651070225" open="1">
+        <player id="130682"/>
+    </alliance>
+    <alliance id="501322" name="Systemoverkill" tag="SoK" founder="128511" foundDate="1651072059" open="1">
+        <player id="128511"/>
+    </alliance>
+    <alliance id="501323" name="jhhjshs" tag="jhndjh" founder="128491" foundDate="1651073498" open="1">
+        <player id="128491"/>
+    </alliance>
+    <alliance id="501324" name="Clean Casuals" tag="Casuals" founder="129247" foundDate="1651073604" open="1">
+        <player id="129247"/>
+    </alliance>
+    <alliance id="501325" name="Purzel und Hurzel" tag="PUH" founder="130797" foundDate="1651073856" open="1">
+        <player id="130797"/>
+        <player id="132180"/>
+        <player id="131572"/>
+    </alliance>
+    <alliance id="501328" name="PENNE e MACCHERONI" tag="Gnocchi" founder="129916" foundDate="1651074925" open="1">
+        <player id="129916"/>
+        <player id="127975"/>
+        <player id="131295"/>
+        <player id="129563"/>
+        <player id="132357"/>
+        <player id="130893"/>
+        <player id="128207"/>
+        <player id="134299"/>
+        <player id="134621"/>
+        <player id="129802"/>
+    </alliance>
+    <alliance id="501329" name="Systemlords" tag="SYL" founder="130269" foundDate="1651074932" open="1">
+        <player id="130269"/>
+    </alliance>
+    <alliance id="501330" name="BUBBLEGUM" tag="GUM" founder="130108" foundDate="1651075512" open="1">
+        <player id="130108"/>
+    </alliance>
+    <alliance id="501331" name="Macross" tag="SDF-1" founder="128498" foundDate="1651075792" open="1">
+        <player id="128498"/>
+    </alliance>
+    <alliance id="501332" name="Uiui" tag="Aiai" founder="128559" foundDate="1651076334" open="1">
+        <player id="128559"/>
+    </alliance>
+    <alliance id="501333" name="Saftladen" tag="SAFTIG" founder="130842" foundDate="1651076664" open="1">
+        <player id="130842"/>
+    </alliance>
+    <alliance id="501335" name="CQFD" tag="CQFD" founder="130323" foundDate="1651078919" open="1">
+        <player id="130323"/>
+    </alliance>
+    <alliance id="501337" name="Italia" tag="Italia" founder="129194" foundDate="1651079608" open="1">
+        <player id="129194"/>
+        <player id="129687"/>
+    </alliance>
+    <alliance id="501339" name="Nice" tag="Nice" founder="131047" foundDate="1651080109" open="1">
+        <player id="131047"/>
+    </alliance>
+    <alliance id="501341" name="Art of War" tag="AoW" founder="130466" foundDate="1651080779" open="1">
+        <player id="130466"/>
+    </alliance>
+    <alliance id="501342" name="OvO" tag="OvO" founder="131219" foundDate="1651081460" open="1">
+        <player id="131219"/>
+    </alliance>
+    <alliance id="501344" name="NWs" tag="N-W" founder="131138" foundDate="1651083515" open="1">
+        <player id="131138"/>
+    </alliance>
+    <alliance id="501345" name="Farme" tag="F M E" founder="131189" foundDate="1651083695" open="1">
+        <player id="131189"/>
+    </alliance>
+    <alliance id="501347" name="Private Military Company" tag="PMC" founder="129597" foundDate="1651084436" open="1">
+        <player id="129597"/>
+    </alliance>
+    <alliance id="501348" name="Meins" tag="321" founder="131234" foundDate="1651085011" open="1">
+        <player id="131234"/>
+    </alliance>
+    <alliance id="501349" name="only one" tag="only one" founder="128035" foundDate="1651086407" open="1">
+        <player id="128035"/>
+    </alliance>
+    <alliance id="501350" name="DELLpc" tag="DELL" founder="130061" foundDate="1651087287" open="1">
+        <player id="130061"/>
+    </alliance>
+    <alliance id="501351" name="llllllllllllllllllllllllllllll" tag="llllllll" founder="129770" foundDate="1651087306" open="1">
+        <player id="129770"/>
+    </alliance>
+    <alliance id="501352" name="Test01" tag="T01" founder="131014" foundDate="1651087606" open="1">
+        <player id="131014"/>
+        <player id="116870"/>
+        <player id="128471"/>
+    </alliance>
+    <alliance id="501353" name="Unga Bunga Bois" tag="Cave" founder="130209" foundDate="1651088063" open="1">
+        <player id="130209"/>
+    </alliance>
+    <alliance id="501354" name="Gloecksritter" tag="GLKR" founder="131048" foundDate="1651088914" open="1">
+        <player id="131048"/>
+        <player id="132198"/>
+        <player id="134112"/>
+    </alliance>
+    <alliance id="501355" name="Il kaseario nero" tag="Izar" founder="131325" foundDate="1651089011" open="1">
+        <player id="131325"/>
+    </alliance>
+    <alliance id="501359" name="Worg" tag="Worgy" founder="131364" foundDate="1651091529" open="1">
+        <player id="131364"/>
+    </alliance>
+    <alliance id="501360" name="Have Gun Will Travel" tag="HGWT" founder="131353" foundDate="1651093356" open="1">
+        <player id="131353"/>
+    </alliance>
+    <alliance id="501361" name="TesTic" tag="Tstc" founder="128302" foundDate="1651093877" open="1">
+        <player id="128302"/>
+    </alliance>
+    <alliance id="501362" name="legalize" tag="lgl" founder="130189" foundDate="1651094220" open="1">
+        <player id="130189"/>
+    </alliance>
+    <alliance id="501363" name="OldieS" tag="OldieS" founder="130141" foundDate="1651094266" open="1">
+        <player id="130141"/>
+    </alliance>
+    <alliance id="501365" name="KURT" tag="KURT" founder="131050" foundDate="1651096505" open="1">
+        <player id="131050"/>
+    </alliance>
+    <alliance id="501366" name="name" tag="Tag2" founder="130314" foundDate="1651097014" open="1">
+        <player id="130314"/>
+    </alliance>
+    <alliance id="501367" name="Darkness" tag="DARK PTS" founder="129321" foundDate="1651098346" open="1">
+        <player id="129321"/>
+        <player id="126708"/>
+    </alliance>
+    <alliance id="501369" name="oooooooo" tag="iou" founder="131252" foundDate="1651100521" open="1">
+        <player id="131252"/>
+    </alliance>
+    <alliance id="501370" name="DWARF SIOUX" tag="DWARF" founder="131280" foundDate="1651101152" open="1">
+        <player id="131280"/>
+    </alliance>
+    <alliance id="501371" name="ROFL" tag="ROFL" founder="131449" foundDate="1651101363" open="1">
+        <player id="131449"/>
+    </alliance>
+    <alliance id="501372" name="My Heart black" tag="MHB" founder="131128" foundDate="1651101990" open="1">
+        <player id="131128"/>
+    </alliance>
+    <alliance id="501373" name="warrior" tag="warrior" founder="128027" foundDate="1651102878" open="1">
+        <player id="128027"/>
+    </alliance>
+    <alliance id="501374" name="blubb" tag="blubb" founder="130864" foundDate="1651107907" open="1">
+        <player id="130864"/>
+    </alliance>
+    <alliance id="501375" name="Facepalm" tag="Fail" founder="130287" foundDate="1651108016" open="1">
+        <player id="130287"/>
+    </alliance>
+    <alliance id="501376" name="pipupipu" tag="pipupipu" founder="128023" foundDate="1651110080" open="1">
+        <player id="128023"/>
+    </alliance>
+    <alliance id="501377" name="EL TETON DE AMOS" tag="EL TT" founder="131456" foundDate="1651110170" open="1">
+        <player id="131456"/>
+    </alliance>
+    <alliance id="501378" name="International Ogame Explorers" tag="IOGE" founder="130215" foundDate="1651110233" open="1">
+        <player id="130215"/>
+    </alliance>
+    <alliance id="501379" name="The PURGE" tag="Purge" founder="130395" foundDate="1651111746" open="1">
+        <player id="130395"/>
+    </alliance>
+    <alliance id="501380" name="Star Wars" tag="StarWars" founder="131285" foundDate="1651114429" open="1">
+        <player id="131285"/>
+    </alliance>
+    <alliance id="501381" name="Ogame-Test-Server" tag="OTS" founder="131316" foundDate="1651117486" open="1">
+        <player id="131316"/>
+        <player id="129972"/>
+    </alliance>
+    <alliance id="501382" name="hmvzkurt" tag="jzrmh" founder="129499" foundDate="1651117820" open="1">
+        <player id="129499"/>
+    </alliance>
+    <alliance id="501383" name="imperio" tag="IPR" founder="131387" foundDate="1651118830" open="1">
+        <player id="131387"/>
+    </alliance>
+    <alliance id="501384" name="Uuua" tag="Uuu" founder="128688" foundDate="1651121055" open="1">
+        <player id="128688"/>
+    </alliance>
+    <alliance id="501385" name="Hell-Makers" tag="H-M" founder="129843" foundDate="1651121658" open="1">
+        <player id="129843"/>
+    </alliance>
+    <alliance id="501386" name="Aslanbey" tag="Aslanbey" founder="129722" foundDate="1651122368" open="1">
+        <player id="129722"/>
+    </alliance>
+    <alliance id="501387" name="abcde" tag="abcde" founder="130633" foundDate="1651122382" open="1">
+        <player id="130633"/>
+    </alliance>
+    <alliance id="501388" name="navegado" tag="NVD" founder="129328" foundDate="1651122680" open="1">
+        <player id="129328"/>
+    </alliance>
+    <alliance id="501389" name="gargar" tag="gargar" founder="116669" foundDate="1651122712" open="1">
+        <player id="116669"/>
+    </alliance>
+    <alliance id="501390" name="VeniVidiVici" tag="VVV" founder="130892" foundDate="1651124951" open="1">
+        <player id="130892"/>
+    </alliance>
+    <alliance id="501391" name="yop" tag="yop" founder="130093" foundDate="1651125058" open="1">
+        <player id="130093"/>
+        <player id="128919"/>
+        <player id="131721"/>
+        <player id="132958"/>
+        <player id="132237"/>
+    </alliance>
+    <alliance id="501392" name="xXx Academy" tag="xXx A" founder="131255" foundDate="1651126310" open="1">
+        <player id="131255"/>
+    </alliance>
+    <alliance id="501393" name="AMOK" tag="AMOK" founder="131438" foundDate="1651126718" open="1">
+        <player id="131438"/>
+    </alliance>
+    <alliance id="501395" name="FOSSIL" tag="MANIACS" founder="130572" foundDate="1651127703" open="1">
+        <player id="130572"/>
+    </alliance>
+    <alliance id="501396" name="HaTe" tag="HaTe" founder="130098" foundDate="1651128161" open="1">
+        <player id="130098"/>
+    </alliance>
+    <alliance id="501397" name="MINER" tag="MINER" founder="131278" foundDate="1651130228" open="1">
+        <player id="131278"/>
+    </alliance>
+    <alliance id="501398" name="ZOMBI" tag="ZOMBI" founder="130718" foundDate="1651130512" open="1">
+        <player id="130718"/>
+        <player id="130325"/>
+        <player id="129797"/>
+        <player id="131631"/>
+    </alliance>
+    <alliance id="501399" name="BWEZ" tag="BWZ" founder="127976" foundDate="1651131245" open="1">
+        <player id="127976"/>
+    </alliance>
+    <alliance id="501402" name="KINGSAJZ" tag="KINGSAJZ" founder="128728" foundDate="1651132035" logo="https://programtv.naziemna.info/images/moviedb/00036/36391/tlo/kingsajz---backdrop-w1280.jpg" open="1">
+        <player id="128728"/>
+        <player id="129431"/>
+        <player id="128589"/>
+        <player id="132950"/>
+        <player id="132990"/>
+    </alliance>
+    <alliance id="501405" name="Diablo" tag="Diablo" founder="128543" foundDate="1651136410" open="1">
+        <player id="128543"/>
+    </alliance>
+    <alliance id="501407" name="qazwsx" tag="qazwsx" founder="128643" foundDate="1651137606" open="1">
+        <player id="128643"/>
+    </alliance>
+    <alliance id="501409" name="vvvvv" tag="vvvvv" founder="127514" foundDate="1651138540" open="1">
+        <player id="127514"/>
+    </alliance>
+    <alliance id="501411" name="Pulsar Star Team" tag="PULSAR" founder="131337" foundDate="1651140233" open="1">
+        <player id="131337"/>
+    </alliance>
+    <alliance id="501412" name="KNUTu18" tag="KNUT" founder="128537" foundDate="1651140336" open="1">
+        <player id="128537"/>
+    </alliance>
+    <alliance id="501413" name="Atomic Force League" tag="AFL" founder="128614" foundDate="1651141040">
+        <player id="128614"/>
+    </alliance>
+    <alliance id="501415" name="French Wasat" tag="FRW" founder="130663" foundDate="1651141135" open="1">
+        <player id="130663"/>
+    </alliance>
+    <alliance id="501417" name="xSoncillo" tag="xSon" founder="130246" foundDate="1651142752" open="1">
+        <player id="130246"/>
+        <player id="132685"/>
+    </alliance>
+    <alliance id="501418" name="The Dark Forest" tag="TDF" founder="131505" foundDate="1651143960" open="1">
+        <player id="131505"/>
+    </alliance>
+    <alliance id="501419" name="333" tag="333" founder="131459" foundDate="1651144787" open="1">
+        <player id="131459"/>
+    </alliance>
+    <alliance id="501420" name="ddddd" tag="dddd" founder="130840" foundDate="1651145692" open="1">
+        <player id="130840"/>
+    </alliance>
+    <alliance id="501421" name="TROGAMETR" tag="TUR" founder="129889" foundDate="1651150051" open="1">
+        <player id="129889"/>
+    </alliance>
+    <alliance id="501423" name="FER" tag="FER" founder="129766" foundDate="1651151673" open="1">
+        <player id="129766"/>
+    </alliance>
+    <alliance id="501424" name="MoheroweBerety" tag="MoB" founder="130136" foundDate="1651151678" open="1">
+        <player id="130136"/>
+    </alliance>
+    <alliance id="501427" name="Visitors" tag="Visitors" founder="131261" foundDate="1651153212" open="1">
+        <player id="131261"/>
+    </alliance>
+    <alliance id="501428" name="Abracadabra" tag="ABR" founder="131030" foundDate="1651154224" open="1">
+        <player id="131030"/>
+    </alliance>
+    <alliance id="501430" name="Turkey1" tag="Turkey1" founder="130870" foundDate="1651155769" open="1">
+        <player id="130870"/>
+    </alliance>
+    <alliance id="501431" name="sss" tag="sssse" founder="130564" foundDate="1651156121" open="1">
+        <player id="130564"/>
+    </alliance>
+    <alliance id="501432" name="God Of War" tag="GOW" founder="130324" foundDate="1651156450" open="1">
+        <player id="130324"/>
+    </alliance>
+    <alliance id="501434" name="Phoenix" tag="PHX" founder="129978" foundDate="1651160469" open="1">
+        <player id="129978"/>
+        <player id="132627"/>
+        <player id="130626"/>
+        <player id="130087"/>
+    </alliance>
+    <alliance id="501435" name="sdf" tag="sdf" founder="131744" foundDate="1651161388" open="1">
+        <player id="131744"/>
+    </alliance>
+    <alliance id="501436" name="interstellar" tag="STAY" founder="130756" foundDate="1651163307" open="1">
+        <player id="130756"/>
+    </alliance>
+    <alliance id="501437" name="STEALTH" tag="STEALTH" founder="131717" foundDate="1651164656" open="1">
+        <player id="131717"/>
+    </alliance>
+    <alliance id="501438" name="Dragon Ball Z" tag="DGB Z" founder="131787" foundDate="1651164782" open="1">
+        <player id="131787"/>
+    </alliance>
+    <alliance id="501439" name="Bango" tag="BAO" founder="129504" foundDate="1651166437" open="1">
+        <player id="129504"/>
+    </alliance>
+    <alliance id="501440" name="GfGG" tag="GfGG" founder="105316" foundDate="1651167669" open="1">
+        <player id="105316"/>
+    </alliance>
+    <alliance id="501441" name="Sojusz Planet Zjednoczonych" tag="SPZ" founder="130598" foundDate="1651168331" open="1">
+        <player id="130598"/>
+    </alliance>
+    <alliance id="501442" name="ALL1" tag="ALL1" founder="130939" foundDate="1651168346">
+        <player id="130939"/>
+    </alliance>
+    <alliance id="501443" name="Le Galaxian" tag="GLX" founder="130272" foundDate="1651168922" open="1">
+        <player id="130272"/>
+    </alliance>
+    <alliance id="501444" name="fgjgjfhfgh" tag="fjgfgj" founder="131675" foundDate="1651168936" open="1">
+        <player id="131675"/>
+    </alliance>
+    <alliance id="501445" name="Ally" tag="Ally" founder="131470" foundDate="1651170935" open="1">
+        <player id="131470"/>
+    </alliance>
+    <alliance id="501446" name="Sparte" tag="Sparte" founder="129881" foundDate="1651171126" open="1">
+        <player id="129881"/>
+    </alliance>
+    <alliance id="501447" name="KURSAD" tag="KURSAD" founder="131827" foundDate="1651172401" open="1">
+        <player id="131827"/>
+    </alliance>
+    <alliance id="501448" name="Storm" tag="Storm" founder="131826" foundDate="1651172805">
+        <player id="131826"/>
+    </alliance>
+    <alliance id="501449" name="MeSolo" tag="MeSolo" founder="129600" foundDate="1651176668" open="1">
+        <player id="129600"/>
+    </alliance>
+    <alliance id="501450" name="Yeniozellikler" tag="Deneme" founder="131577" foundDate="1651180223" open="1">
+        <player id="131577"/>
+    </alliance>
+    <alliance id="501451" name="Els Segadors" tag="SGDR" founder="129116" foundDate="1651180747" open="1">
+        <player id="129116"/>
+    </alliance>
+    <alliance id="501452" name="plaza de toros" tag="toros" founder="131876" foundDate="1651182222" open="1">
+        <player id="131876"/>
+        <player id="131885"/>
+    </alliance>
+    <alliance id="501453" name="KAAAAAAAAAAAKAAAA" tag="KaKaKa" founder="129784" foundDate="1651183108" open="1">
+        <player id="129784"/>
+        <player id="128857"/>
+    </alliance>
+    <alliance id="501455" name="Cyborg Division" tag="CBRG" founder="130408" foundDate="1651186674" open="1">
+        <player id="130408"/>
+    </alliance>
+    <alliance id="501456" name="NEWTEST" tag="NEWTEST" founder="131890" foundDate="1651186729" open="1">
+        <player id="131890"/>
+    </alliance>
+    <alliance id="501457" name="1231" tag="1231" founder="131419" foundDate="1651188908" open="1">
+        <player id="131419"/>
+    </alliance>
+    <alliance id="501459" name="migrus amigos" tag="MIGRUS" founder="131907" foundDate="1651195813" open="1">
+        <player id="131907"/>
+    </alliance>
+    <alliance id="501460" name="Private Alliance" tag="Private" founder="131562" foundDate="1651206416" logo="https://media.istockphoto.com/vectors/mine-gold-illustration-on-white-background-with-place-for-your-text-vector-id1178023216?k=20&amp;m=1178023216&amp;s=612x612&amp;w=0&amp;h=utwcu7KFnUio7Q_0zx8jYdGkQEpvVmJyijP-peDFYqM=">
+        <player id="131562"/>
+    </alliance>
+    <alliance id="501462" name="Pioneers on Tour" tag="P o T" founder="131790" foundDate="1651209966" open="1">
+        <player id="131790"/>
+    </alliance>
+    <alliance id="501463" name="asdfasdf" tag="adfasdf" founder="131947" foundDate="1651216854" open="1">
+        <player id="131947"/>
+    </alliance>
+    <alliance id="501464" name="slip ou bermuda" tag="SLIP" founder="128392" foundDate="1651218896" open="1">
+        <player id="128392"/>
+    </alliance>
+    <alliance id="501465" name="Secrect Waffles and TeKilla" tag="SWAT" founder="131246" foundDate="1651219490" logo="https://img.freepik.com/fotos-kostenlos/high-angle-line-von-gold-tequila-shots_23-2148673708.jpg?t=st=1651225430~exp=1651226030~hmac=fd2dd950ac24716ede2fa8b0807bb23792427d88be2b8361ca85ea1a8fcde6c1&amp;w=740" open="1">
+        <player id="131246"/>
+    </alliance>
+    <alliance id="501467" name="Wave Space Studio" tag="WSS" founder="129287" foundDate="1651223559" open="1">
+        <player id="129287"/>
+    </alliance>
+    <alliance id="501469" name="lifeform" tag="lifeform" founder="130518" foundDate="1651224772" open="1">
+        <player id="130518"/>
+    </alliance>
+    <alliance id="501471" name="NooT" tag="NooT" founder="130621" foundDate="1651226251" open="1">
+        <player id="130621"/>
+    </alliance>
+    <alliance id="501472" name="Paradoxe" tag="Paradoxe" founder="129795" foundDate="1651227486" open="1">
+        <player id="129795"/>
+    </alliance>
+    <alliance id="501474" name="tit1" tag="tit1" founder="131150" foundDate="1651230254" open="1">
+        <player id="131150"/>
+    </alliance>
+    <alliance id="501475" name="123123" tag="123123" founder="130994" foundDate="1651230277" open="1">
+        <player id="130994"/>
+    </alliance>
+    <alliance id="501476" name="Seroo" tag="SER" founder="131979" foundDate="1651231177" open="1">
+        <player id="131979"/>
+        <player id="131944"/>
+    </alliance>
+    <alliance id="501477" name="brutal" tag="brutal" founder="131994" foundDate="1651231469" open="1">
+        <player id="131994"/>
+    </alliance>
+    <alliance id="501478" name="xxx1" tag="xxx1" founder="131993" foundDate="1651231572" open="1">
+        <player id="131993"/>
+    </alliance>
+    <alliance id="501480" name="Lifeform Analysis Team" tag="LAT" founder="130402" foundDate="1651234882" open="1">
+        <player id="130402"/>
+    </alliance>
+    <alliance id="501481" name="abecede" tag="abecede" founder="132010" foundDate="1651235371" open="1">
+        <player id="132010"/>
+    </alliance>
+    <alliance id="501482" name="No Lands Miners" tag="NLM" founder="130353" foundDate="1651235489" open="1">
+        <player id="130353"/>
+    </alliance>
+    <alliance id="501484" name="KKFOS" tag="KKFOS" founder="130980" foundDate="1651236413" open="1">
+        <player id="130980"/>
+    </alliance>
+    <alliance id="501485" name="ffffff" tag="ffffffff" founder="132016" foundDate="1651238051" open="1">
+        <player id="132016"/>
+    </alliance>
+    <alliance id="501487" name="Oxygen not included" tag="Oxygen" founder="132024" foundDate="1651239691" open="1">
+        <player id="132024"/>
+    </alliance>
+    <alliance id="501489" name="bonus" tag="bonus" founder="128934" foundDate="1651241221" open="1">
+        <player id="128934"/>
+    </alliance>
+    <alliance id="501490" name="Probando" tag="PLCO" founder="130349" foundDate="1651241588" open="1">
+        <player id="130349"/>
+    </alliance>
+    <alliance id="501492" name="mgm" tag="mgm" founder="128007" foundDate="1651247795" open="1">
+        <player id="128007"/>
+    </alliance>
+    <alliance id="501494" name="TEST GAME" tag="Da GAME" founder="129712" foundDate="1651250559" open="1">
+        <player id="129712"/>
+    </alliance>
+    <alliance id="501495" name="Zzzz" tag="Yyyy" founder="130453" foundDate="1651251890" open="1">
+        <player id="130453"/>
+    </alliance>
+    <alliance id="501498" name="FINDOUT" tag="Fi Ou" founder="128177" foundDate="1651252713" open="1">
+        <player id="128177"/>
+    </alliance>
+    <alliance id="501502" name="Aureus" tag="Aureus" founder="125157" foundDate="1651256979" open="1">
+        <player id="125157"/>
+    </alliance>
+    <alliance id="501503" name="Die wilde Horde" tag="DWH" founder="132403" foundDate="1651259629" open="1">
+        <player id="132403"/>
+        <player id="133855"/>
+    </alliance>
+    <alliance id="501504" name="Deuter" tag="Deuter" founder="128196" foundDate="1651259676" open="1">
+        <player id="128196"/>
+    </alliance>
+    <alliance id="501505" name="DESCENDIENTES DE KAEL" tag="KRM" founder="131948" foundDate="1651262125" logo="https://frikigamers.com/wp-content/uploads/2022/05/unnamed-60-1024x299.jpg" open="1">
+        <player id="131948"/>
+    </alliance>
+    <alliance id="501506" name="hovnooooo" tag="hovno" founder="132102" foundDate="1651264015" open="1">
+        <player id="132102"/>
+    </alliance>
+    <alliance id="501509" name="Miners" tag="Miners" founder="130913" foundDate="1651268740" open="1">
+        <player id="130913"/>
+    </alliance>
+    <alliance id="501510" name="73889" tag="7778" founder="132093" foundDate="1651270093" open="1">
+        <player id="132093"/>
+    </alliance>
+    <alliance id="501512" name="hjl" tag="mnbvjh" founder="130355" foundDate="1651276326" open="1">
+        <player id="130355"/>
+    </alliance>
+    <alliance id="501513" name="Nardine" tag="Nardine" founder="130303" foundDate="1651278046" open="1">
+        <player id="130303"/>
+    </alliance>
+    <alliance id="501514" name="L O V E" tag="LOVE" founder="130926" foundDate="1651282197" open="1">
+        <player id="130926"/>
+    </alliance>
+    <alliance id="501515" name="ccacaca" tag="cacas" founder="132150" foundDate="1651288869" open="1">
+        <player id="132150"/>
+    </alliance>
+    <alliance id="501516" name="EZA" tag="EZA" founder="131418" foundDate="1651294641" open="1">
+        <player id="131418"/>
+    </alliance>
+    <alliance id="501518" name="Les patates cosmiques" tag="Patates" founder="130556" foundDate="1651295841" open="1">
+        <player id="130556"/>
+    </alliance>
+    <alliance id="501520" name="456" tag="435" founder="132165" foundDate="1651298148" open="1">
+        <player id="132165"/>
+    </alliance>
+    <alliance id="501521" name="2022" tag="2022" founder="128981" foundDate="1651303985" open="1">
+        <player id="128981"/>
+    </alliance>
+    <alliance id="501522" name="Tagan" tag="Tagan" founder="116365" foundDate="1651304076" open="1">
+        <player id="116365"/>
+    </alliance>
+    <alliance id="501523" name="hiho" tag="hiho" founder="130173" foundDate="1651304869" open="1">
+        <player id="130173"/>
+    </alliance>
+    <alliance id="501525" name="Exploration" tag="Explore" founder="132193" foundDate="1651308010" open="1">
+        <player id="132193"/>
+    </alliance>
+    <alliance id="501526" name="Doom" tag="Doom" founder="128118" foundDate="1651310418" open="1">
+        <player id="128118"/>
+    </alliance>
+    <alliance id="501528" name="piwo" tag="piwo" founder="131444" foundDate="1651315176" open="1">
+        <player id="131444"/>
+    </alliance>
+    <alliance id="501532" name="SAS" tag="SAS" founder="131082" foundDate="1651322042" open="1">
+        <player id="131082"/>
+    </alliance>
+    <alliance id="501533" name="EULONE" tag="EULON" founder="130629" foundDate="1651324538" open="1">
+        <player id="130629"/>
+    </alliance>
+    <alliance id="501534" name="MATE" tag="MATE" founder="128449" foundDate="1651328678" open="1">
+        <player id="128449"/>
+    </alliance>
+    <alliance id="501535" name="Level 3" tag="LVL3" founder="132091" foundDate="1651330166" open="1">
+        <player id="132091"/>
+    </alliance>
+    <alliance id="501536" name="Limited" tag="Ltd" founder="128452" foundDate="1651335888" open="1">
+        <player id="128452"/>
+    </alliance>
+    <alliance id="501537" name="XYZ" tag="XYZ" founder="109570" foundDate="1651336411" open="1">
+        <player id="109570"/>
+    </alliance>
+    <alliance id="501538" name="MG 42" tag="MG 42" founder="132265" foundDate="1651336560" open="1">
+        <player id="132265"/>
+    </alliance>
+    <alliance id="501539" name="Borgcube" tag="Borgcube" founder="132271" foundDate="1651336824" open="1">
+        <player id="132271"/>
+    </alliance>
+    <alliance id="501540" name="Ally test" tag="A-T" founder="131499" foundDate="1651337380" open="1">
+        <player id="131499"/>
+    </alliance>
+    <alliance id="501542" name="OPC" tag="OPC" founder="132276" foundDate="1651341945" open="1">
+        <player id="132276"/>
+    </alliance>
+    <alliance id="501543" name="Testa" tag="Testa" founder="132300" foundDate="1651347814" open="1">
+        <player id="132300"/>
+    </alliance>
+    <alliance id="501544" name="No-Name-No-Brand" tag="NNNB" founder="132304" foundDate="1651348915" open="1">
+        <player id="132304"/>
+    </alliance>
+    <alliance id="501545" name="LEGION-L" tag="LEGION-L" founder="131769" foundDate="1651351513" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJze7tzQvv5RX6aihQqufSEUAQ-1xkF-deA&amp;usqp=CAU" open="1">
+        <player id="131769"/>
+    </alliance>
+    <alliance id="501546" name="dak" tag="darkland" founder="123796" foundDate="1651352365" open="1">
+        <player id="123796"/>
+    </alliance>
+    <alliance id="501547" name="Colegas" tag="Colegas" founder="131690" foundDate="1651353024" open="1">
+        <player id="131690"/>
+    </alliance>
+    <alliance id="501548" name="kebap" tag="kebap" founder="131330" foundDate="1651353606" open="1">
+        <player id="131330"/>
+    </alliance>
+    <alliance id="501549" name="We Have FUN" tag="Fun" founder="132101" foundDate="1651354671" open="1">
+        <player id="132101"/>
+        <player id="132098"/>
+        <player id="133504"/>
+        <player id="133500"/>
+        <player id="133231"/>
+        <player id="133915"/>
+        <player id="134679"/>
+        <player id="134675"/>
+    </alliance>
+    <alliance id="501550" name="P_P" tag="PincoPal" founder="130214" foundDate="1651355968" open="1">
+        <player id="130214"/>
+        <player id="132884"/>
+        <player id="132888"/>
+    </alliance>
+    <alliance id="501553" name="SHAKESPEARE" tag="2Bnot2B" founder="129564" foundDate="1651362106" open="1">
+        <player id="129564"/>
+        <player id="130448"/>
+    </alliance>
+    <alliance id="501554" name="57ALAY" tag="ALAY" founder="132310" foundDate="1651368876" open="1">
+        <player id="132310"/>
+    </alliance>
+    <alliance id="501555" name="0262" tag="131" founder="132161" foundDate="1651375473" open="1">
+        <player id="132161"/>
+    </alliance>
+    <alliance id="501556" name="Les Animaniacs" tag="ANM" founder="131118" foundDate="1651381718" open="1">
+        <player id="131118"/>
+    </alliance>
+    <alliance id="501558" name="Kurirji Republike" tag="KUR" founder="132388" foundDate="1651395513" open="1">
+        <player id="132388"/>
+    </alliance>
+    <alliance id="501559" name="fridge" tag="frigo" founder="131903" foundDate="1651398027" open="1">
+        <player id="131903"/>
+    </alliance>
+    <alliance id="501560" name="123321" tag="123321" founder="129928" foundDate="1651399733" open="1">
+        <player id="129928"/>
+    </alliance>
+    <alliance id="501562" name="Alcolisti Anonimi" tag="ALC" founder="132333" foundDate="1651401546" open="1">
+        <player id="132333"/>
+    </alliance>
+    <alliance id="501563" name="Lifeform Destruction Alliance" tag="LDA" founder="132327" foundDate="1651404012" open="1">
+        <player id="132327"/>
+    </alliance>
+    <alliance id="501564" name="PORTUGUESE COLONIZERS" tag="FAP" founder="130725" foundDate="1651404055" open="1">
+        <player id="130725"/>
+    </alliance>
+    <alliance id="501565" name="Fister of the universe" tag="FOTU" founder="131538" foundDate="1651411340" logo="https://s20.directupload.net/images/220701/s74bneba.png" open="1">
+        <player id="131538"/>
+        <player id="132368"/>
+        <player id="132806"/>
+        <player id="134309"/>
+        <player id="131490"/>
+    </alliance>
+    <alliance id="501566" name="WeThePeople" tag="WTP" founder="132245" foundDate="1651412689" open="1">
+        <player id="132245"/>
+        <player id="132393"/>
+        <player id="132299"/>
+    </alliance>
+    <alliance id="501567" name="Sitwa gornicza" tag="Sitwa" founder="130832" foundDate="1651412729" open="1">
+        <player id="130832"/>
+    </alliance>
+    <alliance id="501569" name="Money Hunters BR" tag="Money" founder="132421" foundDate="1651413313" open="1">
+        <player id="132421"/>
+    </alliance>
+    <alliance id="501571" name="LifeformsTest" tag="v8Test" founder="131595" foundDate="1651416525" open="1">
+        <player id="131595"/>
+    </alliance>
+    <alliance id="501577" name="Heavy Metal League" tag="HML" founder="132477" foundDate="1651433996" open="1">
+        <player id="132477"/>
+    </alliance>
+    <alliance id="501578" name="Chck" tag="Chck" founder="128322" foundDate="1651435234" open="1">
+        <player id="128322"/>
+    </alliance>
+    <alliance id="501579" name="Test113" tag="Test113" founder="131348" foundDate="1651436244" open="1">
+        <player id="131348"/>
+    </alliance>
+    <alliance id="501581" name="OLD_SERVER_ESPAIN" tag="OLDSPAIN" founder="131989" foundDate="1651440756" open="1">
+        <player id="131989"/>
+    </alliance>
+    <alliance id="501582" name="Mining Intergalactic Neo ENT" tag="MINE" founder="132431" foundDate="1651442109" open="1">
+        <player id="132431"/>
+    </alliance>
+    <alliance id="501583" name="temerarios" tag="TMS" founder="130472" foundDate="1651444494" open="1">
+        <player id="130472"/>
+    </alliance>
+    <alliance id="501584" name="TAFKAS" tag="STRM" founder="129011" foundDate="1651450966" open="1">
+        <player id="129011"/>
+        <player id="132345"/>
+    </alliance>
+    <alliance id="501590" name="yods" tag="yods" founder="132569" foundDate="1651486151" open="1">
+        <player id="132569"/>
+    </alliance>
+    <alliance id="501593" name="Alliance of Last Looters" tag="ALL" founder="130162" foundDate="1651503498" open="1">
+        <player id="130162"/>
+    </alliance>
+    <alliance id="501594" name="GRA" tag="Graviton" founder="132622" foundDate="1651506011" open="1">
+        <player id="132622"/>
+    </alliance>
+    <alliance id="501596" name="Consequence Grocery" tag="CoGro" founder="129395" foundDate="1651510647" open="1">
+        <player id="129395"/>
+    </alliance>
+    <alliance id="501597" name="WladDraco" tag="WLAD" founder="132295" foundDate="1651511173" open="1">
+        <player id="132295"/>
+        <player id="134176"/>
+    </alliance>
+    <alliance id="501598" name="Taberna del Spammer" tag="Spam" founder="128749" foundDate="1651512812" open="1">
+        <player id="128749"/>
+        <player id="128356"/>
+        <player id="125388"/>
+        <player id="132567"/>
+        <player id="131494"/>
+        <player id="129065"/>
+        <player id="131445"/>
+    </alliance>
+    <alliance id="501601" name="Test12" tag="Test12" founder="132662" foundDate="1651524646" open="1">
+        <player id="132662"/>
+    </alliance>
+    <alliance id="501605" name="GurGur" tag="Gur" founder="132442" foundDate="1651570627" open="1">
+        <player id="132442"/>
+    </alliance>
+    <alliance id="501606" name="Les Noobs des Noobs" tag="LNN" founder="129443" foundDate="1651572639" open="1">
+        <player id="129443"/>
+    </alliance>
+    <alliance id="501607" name="THE TURK" tag="THETURK" founder="132563" foundDate="1651578139" logo="http://1.bp.blogspot.com/-R-QOBy5nNXw/UYqx33TRPpI/AAAAAAAAAEU/4zHup3sl8J0/s1600/597332-yeni%C3%A7eri%5B1%5D.jpg" open="1">
+        <player id="132563"/>
+        <player id="131955"/>
+    </alliance>
+    <alliance id="501608" name="testert" tag="tester" founder="131376" foundDate="1651579819" open="1">
+        <player id="131376"/>
+    </alliance>
+    <alliance id="501610" name="Demonio Nocturno" tag="DeNoc" founder="132734" foundDate="1651585677" open="1">
+        <player id="132734"/>
+    </alliance>
+    <alliance id="501611" name="Miner - Abschluss Tutorial" tag="M - A T" founder="132280" foundDate="1651586162" open="1">
+        <player id="132280"/>
+        <player id="132864"/>
+        <player id="132254"/>
+    </alliance>
+    <alliance id="501613" name="ANTLIA" tag="ANT" founder="132655" foundDate="1651590919" open="1">
+        <player id="132655"/>
+    </alliance>
+    <alliance id="501616" name="Pelotu2" tag="Pelotu2" founder="129466" foundDate="1651594147" open="1">
+        <player id="129466"/>
+    </alliance>
+    <alliance id="501618" name="Die Alten" tag="ALT" founder="132748" foundDate="1651596375" open="1">
+        <player id="132748"/>
+        <player id="129586"/>
+    </alliance>
+    <alliance id="501619" name="Just a Test" tag="JaT" founder="132242" foundDate="1651600944" open="1">
+        <player id="132242"/>
+    </alliance>
+    <alliance id="501620" name="hello" tag="hello" founder="132682" foundDate="1651606610">
+        <player id="132682"/>
+    </alliance>
+    <alliance id="501621" name="mlk" tag="mlk" founder="131301" foundDate="1651610933" open="1">
+        <player id="131301"/>
+    </alliance>
+    <alliance id="501622" name="Noob-Testing" tag="Nub" founder="129694" foundDate="1651611176" open="1">
+        <player id="129694"/>
+    </alliance>
+    <alliance id="501623" name="Nobody Yes Door" tag="NYS" founder="132776" foundDate="1651617365" open="1">
+        <player id="132776"/>
+    </alliance>
+    <alliance id="501624" name="EXPOs" tag="EXPOs" founder="129969" foundDate="1651621100" open="1">
+        <player id="129969"/>
+        <player id="131893"/>
+        <player id="129986"/>
+        <player id="129255"/>
+        <player id="133692"/>
+    </alliance>
+    <alliance id="501625" name="German" tag="Germ4n" founder="128803" foundDate="1651639084" open="1">
+        <player id="128803"/>
+    </alliance>
+    <alliance id="501626" name="PPPL" tag="PPPL" founder="132791" foundDate="1651648954" open="1">
+        <player id="132791"/>
+    </alliance>
+    <alliance id="501627" name="Botaniker" tag="BOT" founder="132740" foundDate="1651655387" open="1">
+        <player id="132740"/>
+    </alliance>
+    <alliance id="501629" name="Quest" tag="LOK" founder="132596" foundDate="1651661659" open="1">
+        <player id="132596"/>
+        <player id="132014"/>
+        <player id="131970"/>
+    </alliance>
+    <alliance id="501631" name="QWGASXFC" tag="FRW123" founder="129181" foundDate="1651662895" open="1">
+        <player id="129181"/>
+    </alliance>
+    <alliance id="501632" name="PSIPENISBEZS" tag="PEN" founder="132819" foundDate="1651669600" open="1">
+        <player id="132819"/>
+    </alliance>
+    <alliance id="501633" name="RybaWplywaNaWszystko" tag="RWNW" founder="132821" foundDate="1651675247" open="1">
+        <player id="132821"/>
+        <player id="132816"/>
+    </alliance>
+    <alliance id="501635" name="Hispanos" tag="HPS" founder="132581" foundDate="1651679184" open="1">
+        <player id="132581"/>
+    </alliance>
+    <alliance id="501637" name="TAM inc" tag="TAM" founder="130483" foundDate="1651684341" open="1">
+        <player id="130483"/>
+    </alliance>
+    <alliance id="501638" name="testtt" tag="testtt" founder="127992" foundDate="1651691341" open="1">
+        <player id="127992"/>
+    </alliance>
+    <alliance id="501639" name="Blue" tag="Blue" founder="132454" foundDate="1651697026" open="1">
+        <player id="132454"/>
+    </alliance>
+    <alliance id="501640" name="GOD AND MONSTERS" tag="GAM" founder="131726" foundDate="1651709991" open="1">
+        <player id="131726"/>
+    </alliance>
+    <alliance id="501641" name="as new one" tag="ASXZ" founder="132032" foundDate="1651730664" open="1">
+        <player id="132032"/>
+    </alliance>
+    <alliance id="501642" name="Noob Troopers" tag="NoOb" founder="129702" foundDate="1651737745" open="1">
+        <player id="129702"/>
+    </alliance>
+    <alliance id="501645" name="Above and beyond" tag="Push" founder="129779" foundDate="1651749179" open="1">
+        <player id="129779"/>
+    </alliance>
+    <alliance id="501646" name="HLF Technology" tag="HLF" founder="131616" foundDate="1651761657" open="1">
+        <player id="131616"/>
+    </alliance>
+    <alliance id="501647" name="Eagles" tag="Eagles" founder="130628" foundDate="1651766946" open="1">
+        <player id="130628"/>
+    </alliance>
+    <alliance id="501650" name="KommInDenAlliantz" tag="SHEEPBOT" founder="129326" foundDate="1651771873" logo="https://i.postimg.cc/1RY88yyy/KOMMin-DENalleantz.gif" open="1">
+        <player id="129326"/>
+        <player id="129279"/>
+    </alliance>
+    <alliance id="501651" name="The Consortium O" tag="CONs" founder="132281" foundDate="1651773176" open="1">
+        <player id="132281"/>
+        <player id="132750"/>
+        <player id="128718"/>
+    </alliance>
+    <alliance id="501652" name="tttt" tag="tttt" founder="128011" foundDate="1651773339">
+        <player id="128011"/>
+    </alliance>
+    <alliance id="501653" name="Golden Retrievers" tag="GRS" founder="128691" foundDate="1651774095" open="1">
+        <player id="128691"/>
+    </alliance>
+    <alliance id="501654" name="gsdgdgs" tag="rgrg" founder="132899" foundDate="1651776303" open="1">
+        <player id="132899"/>
+    </alliance>
+    <alliance id="501655" name="bumeraang" tag="aang" founder="128405" foundDate="1651778446" open="1">
+        <player id="128405"/>
+    </alliance>
+    <alliance id="501656" name="LIFE" tag="LIFE" founder="131728" foundDate="1651779333" open="1">
+        <player id="131728"/>
+    </alliance>
+    <alliance id="501657" name="Bleh" tag="Bleh" founder="130292" foundDate="1651779605" open="1">
+        <player id="130292"/>
+    </alliance>
+    <alliance id="501658" name="ORION" tag="ORION" founder="132913" foundDate="1651780303" open="1">
+        <player id="132913"/>
+    </alliance>
+    <alliance id="501659" name="NurWegenHaendler" tag="NWH" founder="129751" foundDate="1651786605" open="1">
+        <player id="129751"/>
+    </alliance>
+    <alliance id="501660" name="teszt" tag="teszt" founder="132845" foundDate="1651787044" open="1">
+        <player id="132845"/>
+    </alliance>
+    <alliance id="501662" name="Pirate" tag="Parrot" founder="129611" foundDate="1651817075" open="1">
+        <player id="129611"/>
+    </alliance>
+    <alliance id="501664" name="kokondon" tag="kon" founder="131167" foundDate="1651827783" open="1">
+        <player id="131167"/>
+    </alliance>
+    <alliance id="501665" name="asdasd" tag="asdasd" founder="129455" foundDate="1651828313" open="1">
+        <player id="129455"/>
+    </alliance>
+    <alliance id="501666" name="PIT" tag="PIT" founder="127655" foundDate="1651828864" open="1">
+        <player id="127655"/>
+    </alliance>
+    <alliance id="501667" name="Ars Goetia" tag="TLKoS" founder="132725" foundDate="1651829420" open="1">
+        <player id="132725"/>
+        <player id="132624"/>
+    </alliance>
+    <alliance id="501668" name="Bugs Life" tag="BUGS" founder="122745" foundDate="1651830814" open="1">
+        <player id="122745"/>
+    </alliance>
+    <alliance id="501669" name="All Gonna Die Immediately" tag="AGDI" founder="128071" foundDate="1651837753" open="1">
+        <player id="128071"/>
+    </alliance>
+    <alliance id="501670" name="Nippon" tag="NIPPON" founder="132949" foundDate="1651837835" open="1">
+        <player id="132949"/>
+    </alliance>
+    <alliance id="501672" name="dfghnjmkgtfh" tag="bnmkjhyt" founder="132910" foundDate="1651851817" open="1">
+        <player id="132910"/>
+    </alliance>
+    <alliance id="501673" name="TESTY" tag="TESTY" founder="131615" foundDate="1651865208" open="1">
+        <player id="131615"/>
+    </alliance>
+    <alliance id="501674" name="PiHi" tag="PiHi" founder="129661" foundDate="1651866384" open="1">
+        <player id="129661"/>
+    </alliance>
+    <alliance id="501675" name="TOTT" tag="ToTT" founder="132920" foundDate="1651872556" open="1">
+        <player id="132920"/>
+    </alliance>
+    <alliance id="501676" name="EZJP" tag="EZJP" founder="131160" foundDate="1651874296" open="1">
+        <player id="131160"/>
+    </alliance>
+    <alliance id="501677" name="hurahura" tag="DaLGa" founder="132929" foundDate="1651880123" open="1">
+        <player id="132929"/>
+    </alliance>
+    <alliance id="501678" name="AZUL" tag="A5W" founder="131635" foundDate="1651881045" open="1">
+        <player id="131635"/>
+    </alliance>
+    <alliance id="501679" name="Starchy Tubers" tag="SPUD" founder="133003" foundDate="1651892061" open="1">
+        <player id="133003"/>
+    </alliance>
+    <alliance id="501680" name="united inGame" tag="uGame" founder="132794" foundDate="1651908093" open="1">
+        <player id="132794"/>
+    </alliance>
+    <alliance id="501681" name="Dark Myst" tag="DarkMyst" founder="128608" foundDate="1651909409" open="1">
+        <player id="128608"/>
+    </alliance>
+    <alliance id="501683" name="Zabava" tag="ZaV" founder="132220" foundDate="1651920453" open="1">
+        <player id="132220"/>
+        <player id="132221"/>
+    </alliance>
+    <alliance id="501684" name="Zappa" tag="Zappater" founder="131715" foundDate="1651924013" open="1">
+        <player id="131715"/>
+    </alliance>
+    <alliance id="501685" name="Beware The Zombies" tag="BTZ" founder="132552" foundDate="1651924550">
+        <player id="132552"/>
+    </alliance>
+    <alliance id="501689" name="TESTEDING" tag="TSA" founder="132993" foundDate="1651937595" open="1">
+        <player id="132993"/>
+    </alliance>
+    <alliance id="501690" name="OruS" tag="OruS" founder="133034" foundDate="1651941718" open="1">
+        <player id="133034"/>
+    </alliance>
+    <alliance id="501691" name="Castle of Camelot" tag="Camelot" founder="131802" foundDate="1651951927" open="1">
+        <player id="131802"/>
+    </alliance>
+    <alliance id="501692" name="ven" tag="ven" founder="128369" foundDate="1651954395" open="1">
+        <player id="128369"/>
+    </alliance>
+    <alliance id="501693" name="Pora" tag="Pora" founder="132408" foundDate="1651955311" open="1">
+        <player id="132408"/>
+    </alliance>
+    <alliance id="501694" name="RENEGADES" tag="RGT" founder="128032" foundDate="1651956556" open="1">
+        <player id="128032"/>
+    </alliance>
+    <alliance id="501695" name="Anatolians" tag="ANA" founder="132568" foundDate="1651958883" open="1">
+        <player id="132568"/>
+    </alliance>
+    <alliance id="501698" name="EpicFail" tag="Epic" founder="132962" foundDate="1651982992" open="1">
+        <player id="132962"/>
+    </alliance>
+    <alliance id="501700" name="AVA" tag="AVA" founder="132401" foundDate="1651992827" open="1">
+        <player id="132401"/>
+    </alliance>
+    <alliance id="501702" name="Stargate SG-4" tag="SG-4" founder="133063" foundDate="1652001472" open="1">
+        <player id="133063"/>
+    </alliance>
+    <alliance id="501704" name="mew" tag="mew" founder="131139" foundDate="1652007362" open="1">
+        <player id="131139"/>
+    </alliance>
+    <alliance id="501710" name="IAM" tag="IAM" founder="132287" foundDate="1652025144" open="1">
+        <player id="132287"/>
+    </alliance>
+    <alliance id="501711" name="Cro Army" tag="CRO" founder="131396" foundDate="1652026508" open="1">
+        <player id="131396"/>
+    </alliance>
+    <alliance id="501712" name="XPERIA" tag="XPERIA" founder="128995" foundDate="1652028676" open="1">
+        <player id="128995"/>
+    </alliance>
+    <alliance id="501713" name="Murim" tag="Murim" founder="132607" foundDate="1652030997" open="1">
+        <player id="132607"/>
+    </alliance>
+    <alliance id="501715" name="D-A-CH" tag="DACH" founder="128159" foundDate="1652044136" logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.flutlicht.biz%2Fwp-content%2Fuploads%2F2013%2F09%2Fdach-pr-flaggen.jpg&amp;f=1&amp;nofb=1" open="1">
+        <player id="129907"/>
+        <player id="128811"/>
+        <player id="128159"/>
+        <player id="128214"/>
+        <player id="128427"/>
+        <player id="120070"/>
+        <player id="120528"/>
+        <player id="129774"/>
+        <player id="132283"/>
+        <player id="133601"/>
+        <player id="129240"/>
+        <player id="133615"/>
+        <player id="129932"/>
+        <player id="133606"/>
+        <player id="130694"/>
+        <player id="133904"/>
+        <player id="128640"/>
+        <player id="121343"/>
+        <player id="134894"/>
+        <player id="136997"/>
+    </alliance>
+    <alliance id="501716" name="Olimpus" tag="OLI" founder="131379" foundDate="1652047090" open="1">
+        <player id="131379"/>
+    </alliance>
+    <alliance id="501717" name="GreenRay" tag="GrR" founder="128969" foundDate="1652053146" open="1">
+        <player id="128969"/>
+    </alliance>
+    <alliance id="501719" name="Valhalla" tag="Norsemen" founder="132361" foundDate="1652082044" open="1">
+        <player id="132361"/>
+    </alliance>
+    <alliance id="501720" name="AYI" tag="KIRO" founder="133067" foundDate="1652082477" open="1">
+        <player id="133067"/>
+    </alliance>
+    <alliance id="501722" name="GGGG" tag="GGGG" founder="131205" foundDate="1652091574" open="1">
+        <player id="131205"/>
+    </alliance>
+    <alliance id="501723" name="Somos_Los Reyes de Europa" tag="SLRDE" founder="130928" foundDate="1652093956" open="1">
+        <player id="130928"/>
+    </alliance>
+    <alliance id="501724" name="abcabc" tag="abcabc" founder="133118" foundDate="1652094241" open="1">
+        <player id="133118"/>
+    </alliance>
+    <alliance id="501728" name="The Rebels" tag="REBELS" founder="129808" foundDate="1652122762" open="1">
+        <player id="129808"/>
+    </alliance>
+    <alliance id="501729" name="FrenchTouch" tag="AllyFR" founder="131077" foundDate="1652123244" open="1">
+        <player id="131077"/>
+        <player id="130780"/>
+        <player id="128086"/>
+    </alliance>
+    <alliance id="501730" name="Chaos" tag="LoA" founder="132828" foundDate="1652132499" open="1">
+        <player id="132828"/>
+    </alliance>
+    <alliance id="501731" name="Caballeros Templarios" tag="TEMPLARS" founder="133151" foundDate="1652132929" open="1">
+        <player id="133151"/>
+    </alliance>
+    <alliance id="501732" name="The Casual Hub" tag="Casual" founder="118362" foundDate="1652134003" open="1">
+        <player id="118362"/>
+    </alliance>
+    <alliance id="501733" name="I dont speak English" tag="I D S E" founder="131460" foundDate="1652149839" open="1">
+        <player id="131460"/>
+    </alliance>
+    <alliance id="501734" name="Radon" tag="RAD" founder="130737" foundDate="1652166277" open="1">
+        <player id="130737"/>
+    </alliance>
+    <alliance id="501735" name="TRK" tag="TRK" founder="125338" foundDate="1652172929" open="1">
+        <player id="125338"/>
+    </alliance>
+    <alliance id="501736" name="FR-TEST" tag="FR-TEST" founder="128679" foundDate="1652176158" open="1">
+        <player id="128679"/>
+    </alliance>
+    <alliance id="501738" name="Dikish" tag="Sikish" founder="131759" foundDate="1652196961" open="1">
+        <player id="131759"/>
+    </alliance>
+    <alliance id="501739" name="RacoonWankers" tag="RWS" founder="130158" foundDate="1652200479" open="1">
+        <player id="130158"/>
+        <player id="127996"/>
+        <player id="133929"/>
+        <player id="134294"/>
+        <player id="133995"/>
+    </alliance>
+    <alliance id="501742" name="Testingthetruth" tag="TSTT" founder="133068" foundDate="1652203602" open="1">
+        <player id="133068"/>
+    </alliance>
+    <alliance id="501743" name="La Haine" tag="La Haine" founder="119789" foundDate="1652209103" logo="http://www.bilder-hochladen.net/files/8vgw-bd-b7b1.jpg" open="1">
+        <player id="119789"/>
+        <player id="128795"/>
+        <player id="133200"/>
+    </alliance>
+    <alliance id="501744" name="hcemunojebac" tag="HUJ" founder="133099" foundDate="1652212530" open="1">
+        <player id="133099"/>
+    </alliance>
+    <alliance id="501746" name="COL" tag="COL" founder="128549" foundDate="1652214025" open="1">
+        <player id="128549"/>
+    </alliance>
+    <alliance id="501747" name="spezies test" tag="S-T" founder="129415" foundDate="1652216111" open="1">
+        <player id="129415"/>
+    </alliance>
+    <alliance id="501748" name="LifeForms Testing" tag="Trial" founder="131931" foundDate="1652229349" open="1">
+        <player id="131931"/>
+    </alliance>
+    <alliance id="501749" name="IWAN" tag="IWA" founder="130778" foundDate="1652254385" open="1">
+        <player id="130778"/>
+    </alliance>
+    <alliance id="501750" name="TEST123" tag="TEST123" founder="131966" foundDate="1652254484" open="1">
+        <player id="131966"/>
+    </alliance>
+    <alliance id="501751" name="Life Form Test" tag="LFT" founder="133238" foundDate="1652256339">
+        <player id="133238"/>
+    </alliance>
+    <alliance id="501752" name="Ceyhan" tag="Ceyhan" founder="133240" foundDate="1652257345" open="1">
+        <player id="133240"/>
+    </alliance>
+    <alliance id="501753" name="GOYGOYCULARS" tag="GOYGOY" founder="124702" foundDate="1652270806" open="1">
+        <player id="124702"/>
+    </alliance>
+    <alliance id="501754" name="Republic" tag="ReP" founder="130338" foundDate="1652281905" open="1">
+        <player id="130338"/>
+    </alliance>
+    <alliance id="501755" name="Diskord Nie Wymagany" tag="DnW" founder="121703" foundDate="1652292647" open="1">
+        <player id="121703"/>
+        <player id="131312"/>
+    </alliance>
+    <alliance id="501756" name="Mant" tag="Mant" founder="129320" foundDate="1652294876" open="1">
+        <player id="129320"/>
+    </alliance>
+    <alliance id="501757" name="ali veli" tag="ali veli" founder="128797" foundDate="1652301870" open="1">
+        <player id="128797"/>
+    </alliance>
+    <alliance id="501759" name="onajgad" tag="OMGufno" founder="103684" foundDate="1652345130" open="1">
+        <player id="103684"/>
+    </alliance>
+    <alliance id="501760" name="Sargonnic Dominion" tag="SARGAS" founder="133087" foundDate="1652345190" open="1">
+        <player id="133087"/>
+    </alliance>
+    <alliance id="501761" name="238" tag="238" founder="133315" foundDate="1652346849" open="1">
+        <player id="133315"/>
+    </alliance>
+    <alliance id="501762" name="500" tag="500" founder="130932" foundDate="1652352722" open="1">
+        <player id="130932"/>
+    </alliance>
+    <alliance id="501765" name="T-E-S-T" tag="T-E-S-T" founder="127959" foundDate="1652361166" open="1">
+        <player id="127959"/>
+        <player id="133302"/>
+    </alliance>
+    <alliance id="501766" name="DSD" tag="DSD" founder="133348" foundDate="1652364779" open="1">
+        <player id="133348"/>
+    </alliance>
+    <alliance id="501767" name="alliances" tag="niko" founder="133229" foundDate="1652373470" open="1">
+        <player id="133229"/>
+    </alliance>
+    <alliance id="501768" name="CoSSaCK" tag="CoSSaCK" founder="133346" foundDate="1652382853" open="1">
+        <player id="133346"/>
+    </alliance>
+    <alliance id="501769" name="TESTOWY" tag="TESTOWY" founder="133327" foundDate="1652384510" open="1">
+        <player id="133327"/>
+    </alliance>
+    <alliance id="501770" name="T99" tag="T99" founder="132851" foundDate="1652387863" open="1">
+        <player id="132851"/>
+    </alliance>
+    <alliance id="501771" name="dritter" tag="zweiter" founder="129584" foundDate="1652391784" open="1">
+        <player id="129584"/>
+    </alliance>
+    <alliance id="501772" name="123456" tag="12356" founder="133375" foundDate="1652397921" open="1">
+        <player id="133375"/>
+    </alliance>
+    <alliance id="501773" name="Devs" tag="okay" founder="128338" foundDate="1652398726" open="1">
+        <player id="128338"/>
+    </alliance>
+    <alliance id="501774" name="SADE" tag="TRCoffee" founder="116555" foundDate="1652403308">
+        <player id="116555"/>
+    </alliance>
+    <alliance id="501775" name="millevaches" tag="mlv" founder="133298" foundDate="1652408282" open="1">
+        <player id="133298"/>
+    </alliance>
+    <alliance id="501776" name="UCP" tag="UCP" founder="133356" foundDate="1652427048" open="1">
+        <player id="133356"/>
+        <player id="131372"/>
+        <player id="131898"/>
+        <player id="132158"/>
+    </alliance>
+    <alliance id="501777" name="asdret" tag="asdret" founder="133428" foundDate="1652429081" open="1">
+        <player id="133428"/>
+    </alliance>
+    <alliance id="501779" name="GORA" tag="GORA" founder="133283" foundDate="1652430317" open="1">
+        <player id="133283"/>
+        <player id="127953"/>
+        <player id="127954"/>
+        <player id="131586"/>
+        <player id="129682"/>
+    </alliance>
+    <alliance id="501782" name="Raccoon Bot" tag="R-B" founder="127909" foundDate="1652466759" open="1">
+        <player id="127909"/>
+    </alliance>
+    <alliance id="501784" name="sdfs" tag="dsfsd" founder="128090" foundDate="1652475178" open="1">
+        <player id="128090"/>
+    </alliance>
+    <alliance id="501785" name="One Piece Crew" tag="O P" founder="129759" foundDate="1652475333" open="1">
+        <player id="129759"/>
+    </alliance>
+    <alliance id="501786" name="orcagama" tag="ocg" founder="133531" foundDate="1652481718" open="1">
+        <player id="133531"/>
+    </alliance>
+    <alliance id="501787" name="UndeadL" tag="UndeadL" founder="128145" foundDate="1652483877" open="1">
+        <player id="128145"/>
+    </alliance>
+    <alliance id="501788" name="Moustached Crab" tag="Cr4B" founder="133542" foundDate="1652504782" open="1">
+        <player id="133542"/>
+    </alliance>
+    <alliance id="501789" name="One" tag="111" founder="133474" foundDate="1652505705" open="1">
+        <player id="133474"/>
+    </alliance>
+    <alliance id="501790" name="BetterPlayTetris" tag="TETRIS" founder="131939" foundDate="1652516738" open="1">
+        <player id="131939"/>
+    </alliance>
+    <alliance id="501791" name="Funky Town" tag="F-T" founder="133546" foundDate="1652517844" open="1">
+        <player id="133546"/>
+        <player id="133592"/>
+    </alliance>
+    <alliance id="501793" name="Nothhing" tag="Nothing" founder="129601" foundDate="1652524112" open="1">
+        <player id="129601"/>
+    </alliance>
+    <alliance id="501794" name="W STEPIE SZEROKIM" tag="TEST PL" founder="130999" foundDate="1652528727" open="1">
+        <player id="130999"/>
+    </alliance>
+    <alliance id="501795" name="Freedom" tag="FREE" founder="131334" foundDate="1652534355" logo="https://resources.phpboost.com/documentation/logos/logo.png" open="1">
+        <player id="131334"/>
+    </alliance>
+    <alliance id="501798" name="Unnpplugg" tag="Unpplugg" founder="128723" foundDate="1652536191" open="1">
+        <player id="128723"/>
+    </alliance>
+    <alliance id="501799" name="dark" tag="dark" founder="133133" foundDate="1652540191" open="1">
+        <player id="133133"/>
+    </alliance>
+    <alliance id="501800" name="srb" tag="srb" founder="130130" foundDate="1652552368" open="1">
+        <player id="130130"/>
+    </alliance>
+    <alliance id="501801" name="Zwawe Balkoniki" tag="IZBI" founder="133172" foundDate="1652568188" open="1">
+        <player id="133172"/>
+    </alliance>
+    <alliance id="501802" name="5678" tag="1234" founder="132695" foundDate="1652592853" open="1">
+        <player id="132695"/>
+    </alliance>
+    <alliance id="501803" name="T3st" tag="T3st" founder="130225" foundDate="1652603745" open="1">
+        <player id="130225"/>
+    </alliance>
+    <alliance id="501804" name="TST10" tag="TST10" founder="129585" foundDate="1652606365" open="1">
+        <player id="129585"/>
+    </alliance>
+    <alliance id="501805" name="TC Turkey TR" tag="Turkey" founder="132191" foundDate="1652611262" open="1">
+        <player id="132191"/>
+    </alliance>
+    <alliance id="501806" name="Alive2007" tag="DAFTPUNK" founder="132818" foundDate="1652622244" open="1">
+        <player id="132818"/>
+    </alliance>
+    <alliance id="501808" name="Expeditionstrupp" tag="ExpoTrup" founder="131021" foundDate="1652631013" open="1">
+        <player id="131021"/>
+    </alliance>
+    <alliance id="501809" name="Predi choc pomoz" tag="P_C_P" founder="133064" foundDate="1652642261" open="1">
+        <player id="133064"/>
+        <player id="133095"/>
+    </alliance>
+    <alliance id="501812" name="hi8" tag="hii" founder="133648" foundDate="1652660790" open="1">
+        <player id="133648"/>
+    </alliance>
+    <alliance id="501813" name="Xenon" tag="Xenon" founder="130129" foundDate="1652660793" open="1">
+        <player id="130129"/>
+    </alliance>
+    <alliance id="501814" name="NAZGUL" tag="INFIERNO" founder="130513" foundDate="1652674275" open="1">
+        <player id="130513"/>
+    </alliance>
+    <alliance id="501815" name="VETO" tag="VETO" founder="133552" foundDate="1652706463" open="1">
+        <player id="133552"/>
+    </alliance>
+    <alliance id="501816" name="Task" tag="Task" founder="133669" foundDate="1652709425" open="1">
+        <player id="133669"/>
+    </alliance>
+    <alliance id="501818" name="test999" tag="test9" founder="132901" foundDate="1652714287" open="1">
+        <player id="132901"/>
+    </alliance>
+    <alliance id="501819" name="derp" tag="derp" founder="133697" foundDate="1652732544" open="1">
+        <player id="133697"/>
+    </alliance>
+    <alliance id="501820" name="Tested" tag="Tested" founder="133722" foundDate="1652781876" open="1">
+        <player id="133722"/>
+    </alliance>
+    <alliance id="501821" name="WwW" tag="WwW" founder="129036" foundDate="1652787970" open="1">
+        <player id="129036"/>
+        <player id="128769"/>
+    </alliance>
+    <alliance id="501822" name="BASIC goto" tag="BASIC" founder="129347" foundDate="1652788766" open="1">
+        <player id="129347"/>
+    </alliance>
+    <alliance id="501824" name="Testgroupnine" tag="Mars" founder="130676" foundDate="1652809688" open="1">
+        <player id="130676"/>
+    </alliance>
+    <alliance id="501825" name="TheOneAnd" tag="Only" founder="129072" foundDate="1652821888" open="1">
+        <player id="129072"/>
+    </alliance>
+    <alliance id="501827" name="Crash Test" tag="CHT" founder="129983" foundDate="1652862670" open="1">
+        <player id="129983"/>
+    </alliance>
+    <alliance id="501828" name="sleep" tag="sleep" founder="128201" foundDate="1652864353" open="1">
+        <player id="128201"/>
+    </alliance>
+    <alliance id="501829" name="NABOS" tag="NABOS" founder="128359" foundDate="1652866926" open="1">
+        <player id="128359"/>
+    </alliance>
+    <alliance id="501830" name="3353" tag="aa2463" founder="129846" foundDate="1652869603" open="1">
+        <player id="129846"/>
+    </alliance>
+    <alliance id="501831" name="UE 30" tag="UE 30" founder="128119" foundDate="1652878629" open="1">
+        <player id="128119"/>
+    </alliance>
+    <alliance id="501832" name="We Are Testing" tag="WAT" founder="131110" foundDate="1652880880" open="1">
+        <player id="131110"/>
+    </alliance>
+    <alliance id="501834" name="wwwx" tag="wwwx" founder="133687" foundDate="1652947036" open="1">
+        <player id="133687"/>
+    </alliance>
+    <alliance id="501838" name="LOS DELAINS" tag="DEL" founder="131446" foundDate="1652979313" open="1">
+        <player id="131446"/>
+    </alliance>
+    <alliance id="501839" name="Death Eeters" tag="DEATHERS" founder="133750" foundDate="1653017424" open="1">
+        <player id="133750"/>
+    </alliance>
+    <alliance id="501840" name="Matador de velhinhas" tag="MtV" founder="133864" foundDate="1653062306" open="1">
+        <player id="133864"/>
+    </alliance>
+    <alliance id="501841" name="ROI DES BANDITS" tag="BANDITS" founder="133795" foundDate="1653071318" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7agMC__0yDHHbOUQUP9jyLYAS05czKnCyWA&amp;usqp=CAU" open="1">
+        <player id="133795"/>
+        <player id="133757"/>
+        <player id="134083"/>
+    </alliance>
+    <alliance id="501842" name="Turk StaRs" tag="TurkStaR" founder="133630" foundDate="1653119448" open="1">
+        <player id="133630"/>
+        <player id="128864"/>
+    </alliance>
+    <alliance id="501843" name="LEON" tag="LEON" founder="133863" foundDate="1653131378" open="1">
+        <player id="133863"/>
+    </alliance>
+    <alliance id="501844" name="testneu" tag="testneu" founder="133910" foundDate="1653148733" open="1">
+        <player id="133910"/>
+    </alliance>
+    <alliance id="501847" name="rte" tag="etr" founder="133927" foundDate="1653217727" open="1">
+        <player id="133927"/>
+    </alliance>
+    <alliance id="501849" name="YoYo YoYo" tag="YoYo" founder="133881" foundDate="1653268136" open="1">
+        <player id="133881"/>
+    </alliance>
+    <alliance id="501850" name="Noob For Ever" tag="NFE" founder="133961" foundDate="1653306513" open="1">
+        <player id="133961"/>
+    </alliance>
+    <alliance id="501854" name="Ice Palace" tag="ICE" founder="134002" foundDate="1653355113" open="1">
+        <player id="134002"/>
+    </alliance>
+    <alliance id="501855" name="zzz" tag="zzz" founder="133780" foundDate="1653389423" open="1">
+        <player id="133780"/>
+    </alliance>
+    <alliance id="501857" name="OSP" tag="OSP" founder="134015" foundDate="1653402731" open="1">
+        <player id="134015"/>
+    </alliance>
+    <alliance id="501858" name="crypto" tag="crypto" founder="133969" foundDate="1653417472" open="1">
+        <player id="133969"/>
+    </alliance>
+    <alliance id="501859" name="Aetherborn Syndicate" tag="Kaladesh" founder="133836" foundDate="1653438372" open="1">
+        <player id="133836"/>
+    </alliance>
+    <alliance id="501860" name="Supernatural" tag="SPN" founder="134029" foundDate="1653504002" open="1">
+        <player id="134029"/>
+    </alliance>
+    <alliance id="501861" name="Discovery" tag="DSC" founder="134038" foundDate="1653504036" open="1">
+        <player id="134038"/>
+    </alliance>
+    <alliance id="501863" name="Edopl" tag="Edo" founder="133103" foundDate="1653508587" open="1">
+        <player id="133103"/>
+    </alliance>
+    <alliance id="501864" name="Damned" tag="Damned" founder="133826" foundDate="1653512212" open="1">
+        <player id="133826"/>
+    </alliance>
+    <alliance id="501865" name="JUST FLEET" tag="FLEET" founder="130070" foundDate="1653530988" open="1">
+        <player id="130070"/>
+    </alliance>
+    <alliance id="501866" name="HeldenDesVolks" tag="HDV" founder="134082" foundDate="1653566980" open="1">
+        <player id="134082"/>
+        <player id="134098"/>
+    </alliance>
+    <alliance id="501868" name="Agents" tag="Agents" founder="105546" foundDate="1653573496" open="1">
+        <player id="105546"/>
+    </alliance>
+    <alliance id="501870" name="SG-1" tag="SG-1" founder="130956" foundDate="1653639827" open="1">
+        <player id="130956"/>
+    </alliance>
+    <alliance id="501872" name="for the lulz" tag="FTL" founder="133943" foundDate="1653640257">
+        <player id="133943"/>
+    </alliance>
+    <alliance id="501873" name="rrrr" tag="rrrr" founder="134133" foundDate="1653659476" open="1">
+        <player id="134133"/>
+    </alliance>
+    <alliance id="501874" name="CEO" tag="CEO" founder="133988" foundDate="1653677184" open="1">
+        <player id="133988"/>
+    </alliance>
+    <alliance id="501875" name="Jijijija" tag="JIJI" founder="133189" foundDate="1653704721" open="1">
+        <player id="133189"/>
+    </alliance>
+    <alliance id="501876" name="G-G" tag="G-G" founder="130322" foundDate="1653720042" open="1">
+        <player id="130322"/>
+    </alliance>
+    <alliance id="501877" name="StarCraftII" tag="SCII" founder="133977" foundDate="1653739831" open="1">
+        <player id="133977"/>
+    </alliance>
+    <alliance id="501883" name="orz" tag="orz" founder="121771" foundDate="1653848012" open="1">
+        <player id="121771"/>
+    </alliance>
+    <alliance id="501885" name="117" tag="117" founder="134218" foundDate="1653993572" open="1">
+        <player id="134218"/>
+    </alliance>
+    <alliance id="501886" name="Turbotest" tag="TTA" founder="134247" foundDate="1654077191" open="1">
+        <player id="134247"/>
+    </alliance>
+    <alliance id="501887" name="NIGHT" tag="NIGHT" founder="134198" foundDate="1654083487" open="1">
+        <player id="134198"/>
+    </alliance>
+    <alliance id="501888" name="zzzos" tag="sleepers" founder="133965" foundDate="1654093802" open="1">
+        <player id="133965"/>
+    </alliance>
+    <alliance id="501889" name="5th Universe Empire" tag="5UE" founder="134308" foundDate="1654112397" open="1">
+        <player id="134308"/>
+    </alliance>
+    <alliance id="501891" name="Star Miners" tag="StMs" founder="134287" foundDate="1654204553" open="1">
+        <player id="134287"/>
+    </alliance>
+    <alliance id="501892" name="White Life Matters" tag="WLM" founder="134290" foundDate="1654234654" open="1">
+        <player id="134290"/>
+    </alliance>
+    <alliance id="501894" name="GAL" tag="GAL" founder="134303" foundDate="1654322182" open="1">
+        <player id="134303"/>
+    </alliance>
+    <alliance id="501895" name="ESK" tag="ESK" founder="129127" foundDate="1654325325" open="1">
+        <player id="129127"/>
+    </alliance>
+    <alliance id="501899" name="Test02" tag="Test02" founder="134298" foundDate="1654426746" open="1">
+        <player id="134298"/>
+    </alliance>
+    <alliance id="501900" name="CORE IN FRONTE" tag="FLNC" founder="134118" foundDate="1654531851" open="1">
+        <player id="134118"/>
+    </alliance>
+    <alliance id="501901" name="PornoGrubasy" tag="P-G" founder="132414" foundDate="1654543183" open="1">
+        <player id="132414"/>
+    </alliance>
+    <alliance id="501902" name="Legend" tag="Legend" founder="130056" foundDate="1654590596" open="1">
+        <player id="130056"/>
+    </alliance>
+    <alliance id="501903" name="GDR" tag="GDR" founder="131402" foundDate="1654598180" open="1">
+        <player id="131402"/>
+    </alliance>
+    <alliance id="501904" name="Kult of the Kow" tag="KoW" founder="134336" foundDate="1654619745" open="1">
+        <player id="134336"/>
+        <player id="132084"/>
+        <player id="134342"/>
+    </alliance>
+    <alliance id="501905" name="Ukraine" tag="UKR" founder="130925" foundDate="1654693778" open="1">
+        <player id="130925"/>
+    </alliance>
+    <alliance id="501906" name="CoolGuysHere" tag="CGH" founder="134363" foundDate="1654707868" open="1">
+        <player id="134363"/>
+    </alliance>
+    <alliance id="501908" name="bonusalliance" tag="mk47" founder="132650" foundDate="1654759806" open="1">
+        <player id="132650"/>
+    </alliance>
+    <alliance id="501909" name="Test Traders Class" tag="TTC" founder="133754" foundDate="1654765716" open="1">
+        <player id="133754"/>
+    </alliance>
+    <alliance id="501910" name="Global Defense Initiative" tag="GDI" founder="134417" foundDate="1654897742" open="1">
+        <player id="134417"/>
+    </alliance>
+    <alliance id="501911" name="Amazing" tag="Amazing" founder="134110" foundDate="1655033984" open="1">
+        <player id="134110"/>
+    </alliance>
+    <alliance id="501912" name="Evian-6L" tag="EVIAN" founder="134440" foundDate="1655062625" open="1">
+        <player id="134440"/>
+        <player id="134544"/>
+        <player id="134779"/>
+    </alliance>
+    <alliance id="501913" name="PeRu" tag="inkas" founder="117549" foundDate="1655078767" open="1">
+        <player id="117549"/>
+    </alliance>
+    <alliance id="501914" name="Solitaire" tag="Sol" founder="134465" foundDate="1655188538" open="1">
+        <player id="134465"/>
+    </alliance>
+    <alliance id="501915" name="WEJEJE" tag="123456" founder="131776" foundDate="1655203365" open="1">
+        <player id="131776"/>
+    </alliance>
+    <alliance id="501916" name="Tassk" tag="TassK" founder="134471" foundDate="1655213069" open="1">
+        <player id="134471"/>
+    </alliance>
+    <alliance id="501917" name="Strange" tag="STG" founder="134499" foundDate="1655301390" open="1">
+        <player id="134499"/>
+    </alliance>
+    <alliance id="501918" name="BRMBRM" tag="BRMBRM" founder="134473" foundDate="1655305559" open="1">
+        <player id="134473"/>
+    </alliance>
+    <alliance id="501919" name="UB 313" tag="OKI" founder="133947" foundDate="1655307646" open="1">
+        <player id="133947"/>
+    </alliance>
+    <alliance id="501920" name="Shadow" tag="Shadow" founder="134477" foundDate="1655318612" open="1">
+        <player id="134477"/>
+    </alliance>
+    <alliance id="501921" name="CCC" tag="CCC" founder="134512" foundDate="1655320797" open="1">
+        <player id="134512"/>
+    </alliance>
+    <alliance id="501922" name="POFW" tag="POFW" founder="134513" foundDate="1655323743" open="1">
+        <player id="134513"/>
+    </alliance>
+    <alliance id="501923" name="Borg Collective" tag="BOC" founder="134510" foundDate="1655328796" open="1">
+        <player id="134510"/>
+    </alliance>
+    <alliance id="501925" name="kakahuete" tag="kk8" founder="134521" foundDate="1655371678" open="1">
+        <player id="134521"/>
+    </alliance>
+    <alliance id="501926" name="King" tag="K-K" founder="130179" foundDate="1655401989" open="1">
+        <player id="130179"/>
+    </alliance>
+    <alliance id="501927" name="Los Magnificos" tag="A-Team" founder="129351" foundDate="1655437863" open="1">
+        <player id="129351"/>
+    </alliance>
+    <alliance id="501930" name="Revancha de America" tag="RdA" founder="132994" foundDate="1655501591" open="1">
+        <player id="132994"/>
+    </alliance>
+    <alliance id="501931" name="dsfghjkhgfds" tag="wasdfghj" founder="134588" foundDate="1655552195" open="1">
+        <player id="134588"/>
+    </alliance>
+    <alliance id="501932" name="Scavenger" tag="SCVGR" founder="133075" foundDate="1655686793" open="1">
+        <player id="133075"/>
+    </alliance>
+    <alliance id="501933" name="vino tinto" tag="para ver" founder="131009" foundDate="1655687519" open="1">
+        <player id="131009"/>
+    </alliance>
+    <alliance id="501934" name="Is_Krazy" tag="Is_Krazy" founder="134586" foundDate="1655720780" open="1">
+        <player id="134586"/>
+    </alliance>
+    <alliance id="501935" name="Twisted Treeline" tag="Twisted" founder="134647" foundDate="1655793806" open="1">
+        <player id="134647"/>
+    </alliance>
+    <alliance id="501936" name="FRA" tag="Francis" founder="134657" foundDate="1655801966" open="1">
+        <player id="134657"/>
+    </alliance>
+    <alliance id="501937" name="RiP" tag="RiP" founder="134656" foundDate="1655807761" open="1">
+        <player id="134656"/>
+    </alliance>
+    <alliance id="501938" name="babayaga" tag="bababa" founder="134660" foundDate="1655823966" open="1">
+        <player id="134660"/>
+    </alliance>
+    <alliance id="501939" name="Alexitos78" tag="A78" founder="134680" foundDate="1655858772" open="1">
+        <player id="134680"/>
+    </alliance>
+    <alliance id="501940" name="DaysGone" tag="D-G" founder="130050" foundDate="1655863908" open="1">
+        <player id="130050"/>
+    </alliance>
+    <alliance id="501941" name="E Y T" tag="E Y T" founder="129570" foundDate="1655905363" open="1">
+        <player id="129570"/>
+    </alliance>
+    <alliance id="501942" name="NAJLUDA EKIPA" tag="EKIPA" founder="134446" foundDate="1655911407" open="1">
+        <player id="134446"/>
+        <player id="129550"/>
+        <player id="133663"/>
+    </alliance>
+    <alliance id="501943" name="Mongo" tag="Mongo" founder="134692" foundDate="1655914897" open="1">
+        <player id="134692"/>
+    </alliance>
+    <alliance id="501945" name="Test fr" tag="Fra" founder="134609" foundDate="1655958589" open="1">
+        <player id="134609"/>
+    </alliance>
+    <alliance id="501946" name="Test alliance" tag="OGG" founder="134172" foundDate="1655990747" open="1">
+        <player id="134172"/>
+    </alliance>
+    <alliance id="501947" name="Valhallas Team" tag="VHLa" founder="134715" foundDate="1655992847" open="1">
+        <player id="134715"/>
+    </alliance>
+    <alliance id="501948" name="Alphabet" tag="A2Z" founder="134628" foundDate="1655998368" open="1">
+        <player id="134628"/>
+    </alliance>
+    <alliance id="501949" name="Sackratten" tag="SACK" founder="134690" foundDate="1656000894" open="1">
+        <player id="134690"/>
+        <player id="134716"/>
+        <player id="134717"/>
+    </alliance>
+    <alliance id="501950" name="sussybaka" tag="SUS" founder="134585" foundDate="1656043133" open="1">
+        <player id="134585"/>
+    </alliance>
+    <alliance id="501951" name="Silesian Interplanetary Mining" tag="SIM" founder="133111" foundDate="1656043796" open="1">
+        <player id="133111"/>
+    </alliance>
+    <alliance id="501952" name="Quantum Government" tag="Q-G" founder="133678" foundDate="1656058927" open="1">
+        <player id="133678"/>
+    </alliance>
+    <alliance id="501953" name="TheKingIRL" tag="TheKIRL" founder="134735" foundDate="1656153808" open="1">
+        <player id="134735"/>
+    </alliance>
+    <alliance id="501954" name="Brasil" tag="Brasil" founder="134699" foundDate="1656174416">
+        <player id="134699"/>
+    </alliance>
+    <alliance id="501955" name="FAK" tag="FAK" founder="134698" foundDate="1656204906" open="1">
+        <player id="134698"/>
+    </alliance>
+    <alliance id="501956" name="Home Alone" tag="H-A" founder="125399" foundDate="1656247823" open="1">
+        <player id="125399"/>
+    </alliance>
+    <alliance id="501957" name="Guild of mercenaries" tag="GoM" founder="134727" foundDate="1656262464" open="1">
+        <player id="134727"/>
+    </alliance>
+    <alliance id="501958" name="ddddddd" tag="dddddddd" founder="130516" foundDate="1656320091" open="1">
+        <player id="130516"/>
+    </alliance>
+    <alliance id="501959" name="GovOwl" tag="GovOwl" founder="134697" foundDate="1656324411" open="1">
+        <player id="134697"/>
+    </alliance>
+    <alliance id="501960" name="Insomnia" tag="Insomnia" founder="134773" foundDate="1656335490" open="1">
+        <player id="134773"/>
+    </alliance>
+    <alliance id="501961" name="Czech" tag="CzC" founder="132690" foundDate="1656446278" open="1">
+        <player id="132690"/>
+    </alliance>
+    <alliance id="501962" name="Russian warship fuck-off" tag="RWFO" founder="134790" foundDate="1656489895" open="1">
+        <player id="134790"/>
+    </alliance>
+    <alliance id="501963" name="TestAlliance" tag="ALY" founder="134219" foundDate="1656494747" open="1">
+        <player id="134219"/>
+    </alliance>
+    <alliance id="501964" name="Nation Biosynthetique Asurane" tag="Asuras" founder="133406" foundDate="1656536343" open="1">
+        <player id="133406"/>
+    </alliance>
+    <alliance id="501966" name="Cotorep" tag="Cotorep" founder="134816" foundDate="1656623244" open="1">
+        <player id="134816"/>
+    </alliance>
+    <alliance id="501967" name="Death Angels" tag="DXA" founder="134220" foundDate="1656630575" open="1">
+        <player id="134220"/>
+    </alliance>
+    <alliance id="501968" name="GameTestersAlliance" tag="GTA" founder="130934" foundDate="1656663530" open="1">
+        <player id="130934"/>
+    </alliance>
+    <alliance id="501970" name="NoX" tag="NoX" founder="132647" foundDate="1656787098" open="1">
+        <player id="132647"/>
+    </alliance>
+    <alliance id="501971" name="Colonists" tag="COLO" founder="134828" foundDate="1656840048" open="1">
+        <player id="134828"/>
+    </alliance>
+    <alliance id="501972" name="LEGIAO PORTUGUESA" tag="L P" founder="134754" foundDate="1656858817" open="1">
+        <player id="134754"/>
+        <player id="134852"/>
+        <player id="134854"/>
+    </alliance>
+    <alliance id="501973" name="WH40K" tag="WH40K" founder="133892" foundDate="1657036618" logo="https://wh40k-fr.lexicanum.com/mediawiki/images/e/e7/Vulkan_Lives.jpg" open="1">
+        <player id="133892"/>
+        <player id="129532"/>
+    </alliance>
+    <alliance id="501974" name="suspicious" tag="ssa" founder="134729" foundDate="1657048389" open="1">
+        <player id="134729"/>
+    </alliance>
+    <alliance id="501975" name="xXSonofAnarchYXx" tag="SoA" founder="134890" foundDate="1657050346" open="1">
+        <player id="134890"/>
+    </alliance>
+    <alliance id="501976" name="Aza" tag="Log" founder="134898" foundDate="1657072516" open="1">
+        <player id="134898"/>
+    </alliance>
+    <alliance id="501979" name="fda" tag="fee" founder="136964" foundDate="1657241115" open="1">
+        <player id="136964"/>
+    </alliance>
+    <alliance id="501981" name="GANERLs" tag="GANERLs" founder="134938" foundDate="1657299721" open="1">
+        <player id="134938"/>
+        <player id="136953"/>
+        <player id="134856"/>
+    </alliance>
+    <alliance id="501982" name="Supreme" tag="SUP" founder="134849" foundDate="1657312979" open="1">
+        <player id="134849"/>
+    </alliance>
+    <alliance id="501984" name="POLAHY" tag="POLAHY" founder="137016" foundDate="1657391610" open="1">
+        <player id="137016"/>
+    </alliance>
+    <alliance id="501985" name="TML" tag="TML" founder="133217" foundDate="1657477322" open="1">
+        <player id="133217"/>
+    </alliance>
+    <alliance id="501986" name="Placeholder" tag="PlHo" founder="129649" foundDate="1657529612" open="1">
+        <player id="129649"/>
+    </alliance>
+    <alliance id="501987" name="The Boys" tag="BOYS" founder="137055" foundDate="1657534117" open="1">
+        <player id="137055"/>
+    </alliance>
+    <alliance id="501989" name="KillTH" tag="TheKill" founder="137112" foundDate="1657693528" open="1">
+        <player id="137112"/>
+    </alliance>
+    <alliance id="501990" name="Brazilian Team" tag="Brazuka" founder="137131" foundDate="1657741843" open="1">
+        <player id="137131"/>
+        <player id="137133"/>
+    </alliance>
+    <alliance id="501991" name="Intruders" tag="INT" founder="137140" foundDate="1657787100" logo="https://img.myloview.de/bilder/aliens-eindringlinge-aus-dem-weltraum-erfasst-die-stadt-400-64940953.jpg" open="1">
+        <player id="137140"/>
+        <player id="137144"/>
+        <player id="137142"/>
+    </alliance>
+    <alliance id="501993" name="FSO" tag="FSO" founder="137141" foundDate="1657794614" open="1">
+        <player id="137141"/>
+    </alliance>
+    <alliance id="501994" name="BLABLA" tag="BLA" founder="137036" foundDate="1657822200" open="1">
+        <player id="137036"/>
+    </alliance>
+    <alliance id="501996" name="Galactic Trade League" tag="GTL" founder="134590" foundDate="1657973364" open="1">
+        <player id="134590"/>
+    </alliance>
+    <alliance id="501997" name="Rookies" tag="RKS" founder="137182" foundDate="1657987071" open="1">
+        <player id="137182"/>
+    </alliance>
+    <alliance id="501998" name="DaBeedeeDabeeda" tag="BLOOM" founder="137138" foundDate="1658055390" open="1">
+        <player id="137138"/>
+    </alliance>
+    <alliance id="501999" name="TUC-DE" tag="TUC-DE" founder="137223" foundDate="1658069226" open="1">
+        <player id="137223"/>
+    </alliance>
+    <alliance id="502000" name="test4894" tag="test948" founder="137225" foundDate="1658073198" open="1">
+        <player id="137225"/>
+    </alliance>
+    <alliance id="502001" name="Krew Bermuda" tag="K22B" founder="134748" foundDate="1658080869" open="1">
+        <player id="134748"/>
+        <player id="128277"/>
+        <player id="137227"/>
+    </alliance>
+    <alliance id="502002" name="purlpe" tag="Prp" founder="137228" foundDate="1658085060" open="1">
+        <player id="137228"/>
+    </alliance>
+    <alliance id="502003" name="Sk4g" tag="SKG" founder="137250" foundDate="1658154789" open="1">
+        <player id="137250"/>
+    </alliance>
+    <alliance id="502004" name="Stormforge" tag="StormF" founder="137263" foundDate="1658202531" open="1">
+        <player id="137263"/>
+    </alliance>
+    <alliance id="502005" name="Woop" tag="Woop" founder="127259" foundDate="1658227717" open="1">
+        <player id="127259"/>
+    </alliance>
+    <alliance id="502006" name="Revelations" tag="REV" founder="137185" foundDate="1658239742" open="1">
+        <player id="137185"/>
+    </alliance>
+    <alliance id="502007" name="Testers of Universe" tag="TOU" founder="137285" foundDate="1658296655" open="1">
+        <player id="137285"/>
+    </alliance>
+</alliances>
