@@ -40,7 +40,7 @@ public struct OGameAPI {
     }
 
     /// Fetch all server configuration data.
-    public func serverData() async throws -> ServerData {
+    public func serverData() async throws -> OGameAPI.ServerData {
         let url = makeURL(endpoint: "serverData")
         let (data, _) = try await session.data(from: url)
         let serverData = try decoder.decode(ServerData.self, from: data)
@@ -49,14 +49,23 @@ public struct OGameAPI {
     }
 
     /// Fetch all players in the universe, including their id, username, status and alliance.
-    public func players() async throws -> [Player] {
+    public func players() async throws -> [OGameAPI.Player] {
         let url = makeURL(endpoint: "players")
         let (data, _) = try await session.data(from: url)
-        let players = try decoder.decode(PlayersResponse.self, from: data)
+        let response = try decoder.decode(PlayersResponse.self, from: data)
 
-        return players.players
+        return response.players
     }
 
+    /// Fetch list of all planets on the server along with their names, coordinates and owners.
+    public func universe() async throws -> [OGameAPI.Planet] {
+        let url = makeURL(endpoint: "universe")
+        let (data, _) = try await session.data(from: url)
+        //print(String(decoding: data, as: UTF8.self))
+        let response = try decoder.decode(UniverseResponse.self, from: data)
+
+        return response.planets
+    }
     private func makeURL(endpoint: String) -> URL {
         let country: String
         switch serverLanguage.lowercased() {

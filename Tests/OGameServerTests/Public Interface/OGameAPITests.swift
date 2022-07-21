@@ -50,4 +50,22 @@ final class OGameAPITests: XCTestCase {
         XCTAssertEqual(playerInterceptor.allianceId, 501227)
         XCTAssertEqual(inactivePlayer.status, .inactive)
     }
+
+    func testUniverse() async throws {
+        let planets = try await sut.universe()
+        let planet = try XCTUnwrap(planets.first { $0.id == 33622654 })
+
+        XCTAssertEqual(planets.count, 18016)
+        XCTAssertEqual(planet.id, 33622654)
+        XCTAssertEqual(planet.name, "GEMINI")
+        XCTAssertEqual(planet.playerId, 100426)
+        XCTAssertEqual(planet.coordinates.galaxy, 1)
+        XCTAssertEqual(planet.coordinates.system, 153)
+        XCTAssertEqual(planet.coordinates.position, 8)
+
+        let moon = try XCTUnwrap(planet.moon)
+        XCTAssertEqual(moon.id, 33633668)
+        XCTAssertEqual(moon.name, "Moon")
+        XCTAssertEqual(moon.size, 7485)
+    }
 }
