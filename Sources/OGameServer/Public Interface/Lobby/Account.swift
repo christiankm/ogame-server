@@ -10,10 +10,10 @@ import Foundation
 extension OGameLobby {
     
     public struct Account: Decodable {
+        let id: Int
         let email: String
         let gameforgeAccountId: String
-        let id: Int
-        let mhash: Data
+        let mhash: String
         let migrationRequired: Bool
         let portable: Bool
         let unlinkedAccounts: Bool

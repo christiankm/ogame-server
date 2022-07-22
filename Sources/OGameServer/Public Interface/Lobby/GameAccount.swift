@@ -21,13 +21,21 @@ public struct GameAccount: Decodable, Nameable, Identifiable {
         public let trading: Bool
     }
 
+    public struct Detail: Decodable {
+        public let type: String
+        public let title: String
+        public let value: String
+    }
+
     public let gameAccountId: Int
     public let id: Identifier
     public let name: String
-    let server: GameServer
+    public let accountGroup: String
+    public let server: GameServer
     public let bannedReason: String?
     public let bannedUntil: String?
     public let blocked: Bool
+    public let details: [Detail]
     public let lastLogin: String
     public let lastPlayed: String
     public let sitting: Sitting
