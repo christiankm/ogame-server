@@ -44,4 +44,10 @@ public struct OGameServer {
 
         return lobbyLoginData
     }
+    
+    // MARK: - Session Login
+
+    public func logout() async throws {
+       try await ogamedClient.logout()
+    }
 }

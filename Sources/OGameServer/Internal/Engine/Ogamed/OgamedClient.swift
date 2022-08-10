@@ -13,6 +13,7 @@ struct OgamedClient {
     enum OgamedError: Error {
         case couldNotConnect
         case loginFailed
+        case logoutFailed
         case invalidData
     }
 
@@ -36,6 +37,16 @@ struct OgamedClient {
     init(baseURL: URL, session: URLSessionProtocol = URLSession.shared) {
         self.baseURL = baseURL
         self.session = session
+    }
+
+    // MARK: Lobby and Login
+
+    func logout() async throws {
+        let request = makeRequest(for: .logout)
+        let (data, _) = try await session.data(for: request)
+        let decoded = try decoder.decode(LogoutResponse.self, from: data)
+
+        guard decoded.status == "ok" else { throw OgamedError.logoutFailed }
     }
 
     // MARK: Request builders
