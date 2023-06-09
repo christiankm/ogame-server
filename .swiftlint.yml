@@ -1,8 +1,9 @@
+parent_config: https://raw.githubusercontent.com/christiankm/swiftlint-parent-config/main/dk.mitteldorf.swiftlint.yml
+
 excluded:
   - .git
   - .build
   - Package.swift
-  - Tests
 
 disabled_rules:
   - explicit_type_interface
