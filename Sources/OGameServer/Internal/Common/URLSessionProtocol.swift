@@ -12,4 +12,13 @@ public protocol URLSessionProtocol {
     func data(for: URLRequest) async throws -> (Data, URLResponse)
 }
 
-extension URLSession: URLSessionProtocol {}
+extension URLSession: URLSessionProtocol {
+
+    public func data(from: URL) async throws -> (Data, URLResponse) {
+        fatalError("Not implemented")
+    }
+
+    public func data(for: URLRequest) async throws -> (Data, URLResponse) {
+        fatalError("Not implemented")
+    }
+}

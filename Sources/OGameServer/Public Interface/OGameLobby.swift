@@ -92,7 +92,7 @@ public final class OGameLobby {
     }
 
     public func account() async throws -> Account {
-        guard let authorization else { throw LobbyError.unauthorized }
+        guard let authorization = self.authorization else { throw LobbyError.unauthorized }
 
         var accountRequest = URLRequest(url: URL(string: "\(lobby.baseURL)/users/me")!)
         accountRequest.setValue(authorization, forHTTPHeaderField: "Authorization")
@@ -105,7 +105,7 @@ public final class OGameLobby {
     }
 
     public func gameAccounts() async throws -> [GameAccount] {
-        guard let authorization else { throw LobbyError.unauthorized }
+        guard let authorization = self.authorization else { throw LobbyError.unauthorized }
 
         var gameAccountsRequest = URLRequest(url: URL(string: "\(lobby.baseURL.absoluteString)/users/me/accounts")!)
         gameAccountsRequest.setValue(authorization, forHTTPHeaderField: "Authorization")
